@@ -1,0 +1,56 @@
+{
+    "label": "Clones",
+  "description": "Sci-Fi books with look-alikes, doubles, dopplegangers, and genetic cloning!",
+    "list": [
+{
+"label":"Great North Road",
+"isbns": [
+"9780345526687"
+]
+},
+{
+"label":"Brothers in arms, a Vorkosigan adventure",
+"isbns": [
+"9780786156788"
+]
+},
+{
+"label":"Where late the sweet birds sang",
+"isbns": [
+"9781481565202"
+]
+},
+{
+"label":"Cloud Atlas",
+"isbns": [
+"9780307483041",
+"9781415951613"
+]
+},
+{
+"label":"Jurassic Park: A Novel",
+"isbns": [
+"9780307763051"
+]
+},
+{
+"label":"Never let me go",
+"isbns": [
+"9781400044832"
+]
+},
+{
+"label":"Brave new world",
+"isbns": [
+"9780792753520",
+"9780795311253"
+]
+},
+{
+"label":"Altered Carbon",
+"isbns": [
+"9781400121373"
+]
+}
+]
+}
