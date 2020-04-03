@@ -1,0 +1,302 @@
+{
+
+"label" : "Sports",
+
+"description" : "Books and audiobooks on sports and athletes",
+
+"list" : [
+  
+
+
+{
+
+"label" : "Faster",
+
+"isbns" : [
+
+"9781328489838"
+
+]
+
+},
+
+
+{
+
+"label" : "America's Game",
+
+"isbns" : [
+
+"9780062692924"
+
+]
+
+},
+
+{
+
+"label" : "Overtime",
+
+"isbns" : [
+
+"9780062886965"
+
+]
+
+},
+
+{
+
+"label" : "The Pats",
+
+"isbns" : [
+
+"9781328915153"
+
+
+]
+
+},
+
+
+{
+
+"label" : "The Mamba Mentality",
+
+"isbns" : [
+
+"9780374719159"
+
+
+]
+
+},
+
+
+{
+
+"label" : "Belichick",
+
+"isbns" : [
+
+"9780544786752"
+
+
+]
+
+},
+
+
+{
+
+"label" : "A Season in the Sun",
+
+"isbns" : [
+
+"9781541617049"
+
+
+]
+
+},
+
+
+{
+
+"label" : "The Streak",
+
+"isbns" : [
+
+"9780544103979"
+
+
+]
+
+},
+
+
+{
+
+"label" : "Coach Wooden and Me",
+
+"isbns" : [
+
+"9781538727270"
+
+
+]
+
+},
+
+
+{
+
+"label" : "Papi",
+
+"isbns" : [
+
+"9780544814547"
+
+
+]
+
+},
+
+
+{
+
+"label" : "Casey Strengel",
+
+"isbns" : [
+
+"9780385540483"
+
+
+]
+
+},
+
+
+{
+
+"label" : "Gunslinger",
+
+"isbns" : [
+
+"9780544453678"
+
+
+]
+
+},
+
+
+{
+
+"label" : "Belichick and Brady",
+
+"isbns" : [
+
+"9780316266925"
+
+
+]
+
+},
+
+
+{
+
+"label" : "House of Nails",
+
+"isbns" : [
+
+"9780062407382"
+
+
+]
+
+},
+
+
+{
+
+"label" : "For the Glory",
+
+"isbns" : [
+
+"9780698170735"
+
+
+]
+
+},
+
+
+{
+
+"label" : "The Legends Club",
+
+"isbns" : [
+
+"9780399565687"
+
+
+]
+
+},
+
+
+{
+
+"label" : "Brady vs Manning",
+
+"isbns" : [
+
+
+"9780804139380"
+
+
+]
+
+},
+
+
+{
+
+"label" : "Tom Brady vs the NFL",
+
+"isbns" : [
+
+"9781623680671"
+
+
+]
+
+},
+
+
+{
+
+"label" : "100 Things Patriots Fans Should Know and Do Before They Die",
+
+"isbns" : [
+
+"9781617495656"
+
+
+]
+
+},
+
+
+{
+
+"label" : "100 Things Red Sox Fans Should Know and Do Before They Die",
+
+"isbns" : [
+
+"9781617494970"
+
+
+]
+
+},
+
+
+{
+
+"label" : "100 Things Celtics Fans Should Know and Do Before They Die",
+
+"isbns" : [
+
+"9781617492600"
+
+
+]
+
+}
+
+]
+
+}
