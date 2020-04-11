@@ -1,0 +1,123 @@
+{
+  "label": "Beverly Cleary",
+  "description": "Beverly Cleary turns 104!",
+  "list": [
+    {
+      "label": "Two Times the Fun",
+      "isbns": [
+        "9780061757297"
+      ]
+    },
+    {
+      "label": "Beezus and Ramona",
+      "isbns": [
+        "9780061972140",
+        "9780062060167"
+      ]
+    },
+    {
+      "label": "Ribsy",
+      "isbns": [
+        "9780061972386"
+      ]
+    },
+    {
+      "label": "Socks",
+      "isbns": [
+        "9780061972416",
+        "9780060814021"
+      ]
+    },
+    {
+      "label": "Dear Mr. Henshaw",
+      "isbns": [
+        "9780061972157"
+      ]
+    },
+    {
+      "label": "Henry and Beezus",
+      "isbns": [
+        "9780061972195",
+        "9780739364611"
+      ]
+    },
+    {
+      "label": "Henry Huggins",
+      "isbns": [
+        "9780061972232"
+      ]
+    },
+    {
+      "label": "Henry and Ribsy",
+      "isbns": [
+        "9780061972201"
+      ]
+    },
+    {
+      "label": "The Mouse and the Motorcycle",
+      "isbns": [
+        "9780061972270"
+      ]
+    },
+    {
+      "label": "Ellen Tebbits",
+      "isbns": [
+        "9780061972164"
+      ]
+    },
+    {
+      "label": "Strider",
+      "isbns": [
+        "9780061972423"
+      ]
+    },
+    {
+      "label": "Ralph S. Mouse",
+      "isbns": [
+        "9780061972300"
+      ]
+    },
+    {
+      "label": "Runaway Ralph",
+      "isbns": [
+        "9780061972393"
+      ]
+    },
+    {
+    "label": "Otis Spofford",
+    "isbns": [
+    "9780061972294"
+     ]
+    },
+    {
+      "label": "Ralph S. Mouse audio collection",
+      "isbns": [
+        "9780062211460"
+        ]
+    },
+    {
+      "label": "The Ramona Quimby audio collection",
+      "isbns": [
+        "9780062211477"
+        ]
+    },
+    {
+      "label": "The Beverly Cleary audio collection",
+      "isbns": [
+        "9780062191212"
+        ]
+    },
+    {
+      "label": "Ramona the Pest",
+      "isbns": [
+        "9780739356722"
+        ]
+    },
+    {
+      "label": "Ramona the Brave",
+      "isbns": [
+        "9780739362136"
+        ]
+    }    
+  ]
+}
