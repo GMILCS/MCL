@@ -1,0 +1,324 @@
+{
+
+"label" : "Books Coming to Flim or Movie Soon",
+
+"description" : "2020 Books or Movies based on Books",
+
+"list" : [
+  
+{
+
+"label" : "Just Mercy by Bryan Strevenson",
+
+"isbns" : [
+
+"9780812994537"
+
+]
+
+},
+
+{
+
+"label" : "PS I still Love you by Jenny Han",
+
+"isbns" : [
+
+"9781490691879"
+
+]
+
+},
+
+{
+
+"label" : "Emma by Jane Austen",
+
+"isbns" : [
+
+"9780786143092"
+
+]
+
+},
+
+{
+
+"label" : "Call of the Wild by Jack London",
+
+"isbns" : [
+
+"9781467610681"
+
+]
+
+},
+
+{
+
+"label" : "The Secret Garden by Frances Hodgson Burnett",
+
+"isbns" : [
+
+"9781405679589"
+
+]
+
+},
+
+{
+
+"label" : "The Woman in the Window by A.J. Finn",
+
+"isbns" : [
+
+"9780062678447",
+
+"9780062678430"
+
+]
+
+},
+
+{
+
+"label" : "Artemis Fowl by Eoin Colfer",
+
+"isbns" : [
+
+"9780739344668",
+
+"9781400085866",
+
+"9781423132172"
+
+]
+
+},
+
+{
+
+"label" : "Dragon Rider by Cornelia Funke",
+
+"isbns" : [
+
+"9780739344767"
+
+]
+
+},
+
+{
+
+"label" : "The One and Only Ivan by Katherine Applegate",
+
+"isbns" : [
+
+"9781470351250",
+
+"9780062101983"
+
+]
+
+},
+
+{
+
+"label" : "Without Remorse by Tom Clancy",
+
+"isbns" : [
+
+"9781101000519",
+
+"9781101002315",
+
+"9781101001868",
+
+"9780307938701"
+
+]
+
+},
+
+{
+
+"label" : "Dune by Frank Herbert",
+
+"isbns" : [
+
+"9781436233286",
+
+"9781436233316"
+
+]
+
+},
+
+{
+
+"label" : "News of the World by Paulette Jiles",
+
+"isbns" : [
+
+"9780062409225"
+
+]
+
+},
+
+{
+
+"label" : "Chaos Walking: The Knife of Never Letting Go by Patrick Ness",
+
+"isbns" : [
+
+"9780763652166"
+
+]
+
+},
+
+{
+
+"label" : "Stargirl by Jerry Spinelli",
+
+"isbns" : [
+
+"9780739330623",
+
+"9780375890024"
+
+]
+
+},
+
+{
+
+"label" : "Rebecca by Daphne du Maurier",
+
+"isbns" : [
+
+"9781478985037"
+
+]
+
+},
+
+{
+
+"label" : "The Outsider by Stephen King",
+
+"isbns" : [
+
+"9781501181016",
+
+"781508252221"
+
+]
+
+},
+
+{
+
+"label" : "Little Fires Everywhere by Celeste Ng",
+
+"isbns" : [
+
+"9780735224308",
+
+"9780525498094",
+
+"9780525498070"
+
+]
+
+},
+
+{
+
+"label" : "Bridgerton: The Duke and I by Julia Quin",
+
+"isbns" : [
+
+"9780060751296",
+
+"9780060751289 "
+
+]
+
+},
+
+{
+
+"label" : "Normal People by Sally Rooney",
+
+"isbns" : [
+
+"9781984822192",
+
+"9781984843340"
+
+]
+
+},
+
+{
+
+"label" : "Nine Perfect Strangers by Liane Moriarty",
+
+  "isbns" : [
+
+"9781427299130",
+
+"9781250069849"
+
+]
+
+},
+
+{
+
+"label" : "Brave New World by Aldous Huxley",
+
+"isbns" : [
+
+"9780795311253",
+
+"9780792753520"
+
+]
+
+},
+
+{
+
+"label" : "The Devil All the Time by Donald Ray Pollock",
+
+"isbns" : [
+
+"9780307941374",
+
+"9780385535052"
+
+]
+
+},
+
+{
+
+"label" : "The Stand by Stephen King",
+
+"isbns" : [
+
+"9780307987587",
+
+"9780385528856"
+
+]
+
+}
+
+]
+
+
+}
