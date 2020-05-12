@@ -1,0 +1,74 @@
+{
+"description" : "Award Winning Female Authors",
+"label" : "Award Winning Women",
+"list" : [
+{  
+"label" : "Bloodchild",
+"isbns" : [
+"9781453263662"
+]
+},
+{
+"label" : "Parable of the Talents",
+"isbns" : [
+"9781453263624"
+]
+},
+{
+"label" : "To Kill a Mockingbird",
+"isbns" : [
+"9780062368690",
+"9780062368683"
+]
+},
+{
+"label" : "March",
+"isbns" : [
+"9781101079218"
+]
+},
+{
+"label" : "Beloved",
+"isbns" : [
+"9780739346747"
+]
+},
+{
+"label" : "The Goldfinch",
+"isbns" : [
+"9780316248624",
+"9781478980490"
+]
+},
+{
+"label" : "Olive Kitteridge",
+"isbns" : [
+"9781588366887"
+]
+},
+{
+"label" : "The Handmaid's Tale",
+"isbns" : [
+"9780547345666"
+]
+}
+{
+"label" : "The Age of Innocence",
+"isbns" : [
+"9781483089553"
+]
+}
+{
+  "label" : "Dear Life",
+  "isbns" : [
+    "9780307961044"
+    ]
+}
+{
+  "label" : "Are You There God? It's Me, Margaret",
+  "isbns" : [
+    "9780307817747"
+    ]
+}
+]
+}
