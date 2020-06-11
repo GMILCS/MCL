@@ -1,0 +1,108 @@
+{
+"description" : "Black Authors",
+"label" : "Recommended Reading",
+"list" : [
+{  
+"label" : "Sing, Unburied, Sing",
+"isbns" : [
+"9781508236139",
+"9781508236146"
+]
+},
+{
+"label" : "Salvage the Bones",
+"isbns" : [
+"9781608196272"
+]
+},
+{
+"label" : "Children of Blood and Bone",
+"isbns" : [
+"9781427295507",
+"9781250170989"
+]
+},
+{
+"label" : "The Water Dancer",
+"isbns" : [
+"9780525494874",
+"9780399590603"
+]
+},
+{
+"label" : "Beloved",
+"isbns" : [
+"9780739346747"
+]
+},
+{
+"label" : "I Know Why the Caged Bird Sings",
+"isbns" : [
+"9781588369253"
+]
+},
+{
+"label" : "Things Fall Apart",
+"isbns" : [
+"9780307743855"
+]
+},
+{
+"label" : "Roll of Thunder, Hear My Cry",
+"isbns" : [
+"9780739345016",
+"9781101657942"
+]
+}
+{
+"label" : "Between the World and Me",
+"isbns" : [
+"9780147520517",
+"9780679645986"
+]
+}
+{
+  "label" : "Akata Witch",
+  "isbns" : [
+    "9781101513798"
+    ]
+}
+{
+  "label" : "Akata Warrior",
+  "isbns" : [
+    "9781101598986"
+    ]
+}
+{
+  "label" : "The Color Purple",
+  "isbns" : [
+    "9781453223970"
+    ]
+}
+{
+"label" : "Just Mercy",
+"isbns" : [
+"9780812994537"
+]
+}
+{
+"label" : "Homegoing",
+"isbns" : [
+"9781101947142",
+"9780451484192"
+]
+}
+{
+"label" : "The Hundred Thousand Kingdoms",
+"isbns" : [
+"9780316075978"
+]
+}
+{
+"label" : "The Fifth Season",
+"isbns" : [
+"9780316229302"
+]
+}
+]
+}
