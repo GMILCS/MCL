@@ -1,21 +1,21 @@
 {
-"description" : "Black Authors",
-"label" : "Recommended Reading",
-"list" : [
-{  
-"label" : "Sing, Unburied, Sing",
-"isbns" : [
-"9781508236139",
-"9781508236146"
-]
-},
-{
-"label" : "Salvage the Bones",
-"isbns" : [
-"9781608196272"
-]
-},
-{
+  "description" : "Black Authors",
+  "label" : "Recommended Reading",
+  "list" : [
+    {
+      "label" : "Sing, Unburied, Sing",
+      "isbns" : [
+        "9781508236139",
+        "9781508236146"
+        ]
+      },
+    {
+      "label" : "Salvage the Bones",
+      "isbns" : [
+        "9781608196272"
+        ]
+      },
+    {
 "label" : "Children of Blood and Bone",
 "isbns" : [
 "9781427295507",
