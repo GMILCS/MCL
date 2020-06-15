@@ -9,12 +9,12 @@
 "9781508236146"
 ]
 },
-  {
-    "label" : "Salvage the Bones",
-    "isbns" : [
-      "9781608196272"
-      ]
-  },
+{
+"label" : "Salvage the Bones",
+"isbns" : [
+"9781608196272"
+]
+},
 {
 "label" : "Children of Blood and Bone",
 "isbns" : [
@@ -47,13 +47,13 @@
 "9780307743855"
 ]
 },
-  {
-    "label" : "Roll of Thunder, Hear My Cry",
-    "isbns" : [
-      "9780739345016",
-      "9781101657942"
-      ]
-  },
+{
+"label" : "Roll of Thunder, Hear My Cry",
+"isbns" : [
+"9780739345016",
+"9781101657942"
+]
+},
 {
 "label" : "Between the World and Me",
 "isbns" : [
@@ -73,13 +73,13 @@
 "9780812994537"
 ]
 },
-  {
-    "label" : "Akata Withch",
-    "isbns" : [
-      "9781101513798"
-      ]
-  },
-  {
+{
+"label" : "Akata Withch",
+"isbns" : [
+"9781101513798"
+]
+},
+{
 "label" : "Akata Warrior",
 "isbns" : [
 "9781101598986"
