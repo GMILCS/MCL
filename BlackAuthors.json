@@ -131,6 +131,12 @@
        "9780316229302"
        ]
      },
+    {
+      "label" : "My Sister, The Serial Killer",
+      "isbns" : [
+        "9780385544245"
+        ]
+    },
    {
      "label" : "Bloodchild",
      "isbns" : [
@@ -138,9 +144,10 @@
        ]
      },
    {
-     "label" : "Parable of the Talents",
+     "label" : "It's Not All Downhill From Here",
      "isbns" : [
-       "9781453263624"
+       "9780593148167",
+       "9781984823762"
        ]
      }
   ]
