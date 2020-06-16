@@ -23,6 +23,13 @@
       ]
     },
     {
+      "label" : "An American Marriage",
+      "isbns" : [
+        "9781681688343",
+        "9781616207601"
+        ]
+    },
+    {
       "label": "We Should All Be Feminists",
       "isbns": [
         "9781524781774"
@@ -62,9 +69,29 @@
       ]
     },
     {
+      "label" : "Becoming",
+      "isbns" : [
+        "9780525633709",
+        "9781524763152"
+        ]
+    },
+    {
+      "label" : "Dreams from my Father",
+      "isbns" : [
+        "9780307394125"
+        ]
+    },
+    {
       "label" : "A Raisin in the Sun",
       "isbns" : [
         "9780307807441"
+        ]
+    },
+    {
+      "label" : "The Underground Railroad",
+      "isbns" : [
+        "9780385537049",
+        "9781524736286"
         ]
     },
     {
