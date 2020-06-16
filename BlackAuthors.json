@@ -15,13 +15,7 @@
         "9780698195707"
         ]
     },
-    {
-      "label" : "Their Eyes Were Watching God",
-      "isbns" : [
-        "9780061758126"
-        ]
-    },
-    {
+        {
       "label": "Queenie",
       "isbns": [
         "9781508277972",
@@ -180,13 +174,6 @@
        ]
      },
    {
-     "label" : "Roll of Thunder, Hear My Cry",
-     "isbns" : [
-       "9780739345016",
-       "9781101657942"
-       ]
-     },
-   {
      "label" : "Between the World and Me",
      "isbns" : [
        "9780147520517",
@@ -219,12 +206,6 @@
        ]
      },
    {
-     "label" : "The Fifth Season",
-     "isbns" : [
-       "9780316229302"
-       ]
-     },
-    {
       "label" : "My Sister, The Serial Killer",
       "isbns" : [
         "9780385544245"
