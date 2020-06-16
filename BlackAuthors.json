@@ -3,6 +3,12 @@
   "label": "Highlighting Black Authors across genres",
   "list": [
     {
+      "label" : "Well-Read Black Girl",
+      "isbns" : [
+        "9780525619789"
+        ]
+    },
+    {
       "label": "Queenie",
       "isbns": [
         "9781508277972",
