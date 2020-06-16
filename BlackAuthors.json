@@ -1,114 +1,106 @@
 {
-  "description" : "Black Authors",
-  "label" : "Recommended Reading",
-  "list" : [
+  "description": "What is Fake News",
+  "label": "Fake News",
+  "list": [
     {
-    "label" : "Salvage the Bones",
-    "isbns" : [
-    "9781608196272"
-    ]
+      "label": "Bad News",
+      "isbns": [
+        "9780060797461"
+      ]
     },
     {
-      "label" : "Children of Blood and Bone",
-      "isbns" : [
-        "9781427295507",
-        "9781250170989"
-        ]
-      },
+      "label": "Tell Me No Lies",
+      "isbns": [
+        "9781560257868"
+      ]
+    },
     {
-      "label" : "The Water Dancer",
-      "isbns" : [
-        "9780525494874",
-        "9780399590603"
-        ]
-      },
+      "label": "The Smear",
+      "isbns": [
+        "9780062468161",
+        "9781476716015"
+      ]
+    },
     {
-      "label" : "Beloved",
-      "isbns" : [
-        "9780739346747"
-        ]
-      },
+      "label": "Fair and Balanced, My Ass",
+      "isbns": [
+        "9781568583471"
+      ]
+    },
     {
-      "label" : "I Know Why the Caged Bird Sings",
-      "isbns" : [
-        "9781588369253"
-        ]
-      },
+      "label": "Fake News, Propaganda, and Plain Old Lies",
+      "isbns": [
+        "9781538108895"
+      ]
+    },
     {
-      "label" : "Things Fall Apart",
-      "isbns" : [
-        "9780307743855"
-        ]
-      },
+      "label": "Merchants of Truth",
+      "isbns": [
+        "9781501123207"
+      ]
+    },
     {
-      "label" : "Roll of Thunder, Hear My Cry",
-      "isbns" : [
-        "9780739345016",
-        "9781101657942"
-        ]
-      },
+      "label": "On the Condition of Anonymity",
+      "isbns": [
+        "9780252035999"
+      ]
+    },
     {
-      "label" : "Between the World and Me",
-      "isbns" : [
-        "9780147520517",
-        "9780679645986"
-        ]
-      },
+      "label": "Shocking True Story",
+      "isbns": [
+        "9780375421396"
+      ]
+    },
     {
-      "label" : "The Color Purple",
-      "isbns" : [
-        "9781453223970"
-        ]
-      },
+      "label": "Breakthrough",
+      "isbns": [
+        "9781476706177"
+      ]
+    },
     {
-      "label" : "Just Mercy",
-      "isbns" : [
-        "9780812994537"
-        ]
-      },
+      "label": "The Deal From Hell",
+      "isbns": [
+        "9781586487911"
+      ]
+    },
     {
-      "label" : "Akata Witch",
-      "isbns" : [
-        "9781101513798"
-        ]
-      },
+      "label": "The Elements of Journalism",
+      "isbns": [
+        "9780307346704",
+        "9780688019198"
+      ]
+    },
     {
-      "label" : "Akata Warrior",
-      "isbns" : [
-        "9781101598986"
-        ]
-      },
+      "label": "The Invention of News",
+      "isbns": [
+        "9780300179088",
+        "9780812992854"
+      ]
+    },
     {
-      "label" : "Homegoing",
-      "isbns" : [
-        "9781101947142",
-        "9780451484192"
-        ]
-      },
+      "label": "The Manchester Union Leader in New Hampshire Elections",
+      "isbns": [
+        "9780874511062"
+      ]
+    },
     {
-      "label" : "The Hundred Thousand Kingdoms",
-      "isbns" : [
-        "9780316075978"
-        ]
-      },
+      "label": "The News About the News",
+      "isbns": [
+        "9780375408748"
+      ]
+    },
     {
-      "label" : "The Fifth Season",
-      "isbns" : [
-        "9780316229302"
-        ]
-      },
+      "label": "The News and Its Future",
+      "isbns": [
+        "9780824210977",
+        "9781400051991"
+      ]
+    },
     {
-      "label" : "Bloodchild",
-      "isbns" : [
-        "9781453263662"
-        ]
-      },
-    {
-      "label" : "Parable of the Talents",
-      "isbns" : [
-        "9781453263624"
-        ]
-      }
-    ]
-  }
-
+      "label": "The Pulitzer Prize",
+      "isbns": [
+        "9781559720700"
+      ]
+    }
+  ]
+}
