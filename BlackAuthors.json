@@ -5,7 +5,14 @@
     {
       "label" : "Such a Fun Age",
       "isbns" : [
-        "9780525541905"
+        "9780525541929",
+        "9780593107072"
+        ]
+    },
+    {
+      "label" : "Their Eyes Were Watching God",
+      "isbns" : [
+        "9780062498557"
         ]
     },
     {
@@ -22,17 +29,43 @@
       ]
     },
     {
+      "label" : "The Hate U Give",
+      "isbns" : [
+        "9780062677082",
+        "9780062498557"
+        ]
+    },
+    {
       "label": "Black Leopard, Red Wolf",
-      "isbns": [
+      "isbns" : [
         "9780735220195",
         "9780525526858"
       ]
+    },
+    {
+      "label" : "Invisible Man",
+      "isbns" : [
+        "9780307743992"
+        ]
+    },
+    {
+      "label" : "Red at the Bone",
+      "isbns" : [
+        "9780525535294",
+        "9780593147078"
+        ]
     },
     {
       "label": "Sing, Unburied, Sing",
       "isbns": [
         "9781508236146"
       ]
+    },
+    {
+      "label" : "A Raisin in the Sun",
+      "isbns" : [
+        "9780307807441"
+        ]
     },
     {
      "label" : "Children of Blood and Bone",
@@ -55,6 +88,13 @@
        "9780399590603"
        ]
      },
+    {
+      "label" : "Hunger",
+      "isbns" : [
+        "9780062362605",
+        "9780062470256"
+        ]
+    },
     {
       "label" : "Gingerbread",
       "isbns" : [
