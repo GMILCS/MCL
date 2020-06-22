@@ -3,6 +3,12 @@
   "label": "Highlighting Black Authors across genres",
   "list": [
     {
+      "label" : "Akata Witch",
+      "isbns" : [
+        "9781101513798"
+        ]
+    },
+    {
       "label" : "Such a Fun Age",
       "isbns" : [
         "9780525541929",
