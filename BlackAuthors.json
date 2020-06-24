@@ -3,6 +3,13 @@
   "label": "Highlighting Black Authors across genres",
   "list": [
     {
+      "label" : "We Were Eight Years in Power",
+      "isbns" : [
+        "9780525494812",
+        "9780399590580"
+        ]
+    },
+    {
       "label" : "Akata Witch",
       "isbns" : [
         "9781101513798"
