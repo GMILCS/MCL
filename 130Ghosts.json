@@ -72,7 +72,7 @@
 
 "isbns" : [
 
-"	9780738743882"
+"9780738743882"
 
 ]
 
@@ -84,7 +84,7 @@
 
 "isbns" : [
 
-"	9781591433323"
+"9781591433323"
 
 ]
 
@@ -322,7 +322,11 @@
 
 {
 
-"label" : "The eleven questions : everything you ever wanted to know about life, death, and afterlife	9781941768914"
+"label" : "The Eleven Questions",
+  
+  "isbns" : [
+  
+  "9781941768914"
 
 ]
 
