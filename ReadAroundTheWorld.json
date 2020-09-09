@@ -1,0 +1,592 @@
+{
+
+"description" : "Read Around the World",
+  
+"label" : "Travel the world with one of these historical fiction novels",
+
+"list" : [
+  
+{  
+
+"label" : "A Death in Vienna",
+
+"isbns" : [
+
+"9780399151439",
+"9780786264704",
+"9780802118158",
+"9781101210109",
+"9781415944745"
+
+]
+
+},
+
+{
+
+"label" : "A Gentleman in Moscow",
+
+"isbns" : [
+
+"9780670026197",
+"9780399564048",
+"9780735288546",
+"9780735288553"
+
+]
+
+},
+
+{
+
+"label" : "A Small Death in Lisbon",
+
+"isbns" : [
+
+"9780151006090"
+
+]
+
+},
+
+{
+
+"label" : "Cherokee America",
+
+"isbns" : [
+
+"9781328494238",
+"9780358116691"
+
+]
+
+},
+
+{
+
+"label" : "China Dolls",
+
+"isbns" : [
+
+"9780385394154",
+"9780812992892",
+"9780804194389",
+"9780385394185",
+"9780679644163",
+"9788490702475"
+
+]
+
+},
+
+{
+
+"label" : "Cuba libre",
+
+"isbns" : [
+
+"9780385323833"
+
+]
+
+},
+
+{
+
+"label" : "Daughter of Rome",
+
+"isbns" : [
+
+"9781643585284"
+
+]
+
+},
+
+{
+
+"label" : "Daughters of Rome",
+
+"isbns" : [
+
+"9780425238974"
+
+]
+
+},
+
+{
+
+"label" : "Goodnight from London",
+
+"isbns" : [
+
+"9780062675576",
+"9780062389848"
+
+]
+
+},
+
+{
+
+"label" : "Havana",
+
+"isbns" : [
+
+"9780743238083"
+
+]
+
+},
+
+{
+
+"label" : "Honolulu",
+
+"isbns" : [
+
+"0781602854956",
+"9780312360405"
+
+]
+
+},
+
+{
+
+"label" : "Immortals of Tehran",
+
+"isbns" : [
+
+"9781612198194",
+"9781612198187",
+"9781612198194",
+"9780593293904"
+
+]
+
+},
+
+{
+
+"label" : "In Dublin's Fair City",
+
+"isbns" : [
+
+"9780312328191"
+
+]
+
+},
+
+{
+
+"label" : "Journey to Munich",
+
+"isbns" : [
+
+"9780062443991",
+"9780062220646",
+"9780062220622",
+"9780062220646",
+"9780062220608"
+
+]
+
+},
+
+{
+
+"label" : "Meet Me in Monaco",
+
+"isbns" : [
+
+"9780062885371",
+"9780062885364"
+
+]
+
+},
+
+{
+
+"label" : "Munich",
+
+"isbns" : [
+
+"9780525520269",
+"9780525589044",
+"9780525589051",
+"9780525589075"
+
+]
+
+},
+
+{
+
+"label" : "Munich Signature",
+
+"isbns" : [
+
+"9781556610790"
+
+]
+
+},
+
+{
+
+"label" : "Next Year in Havana",
+
+"isbns" : [
+
+"9781538469798",
+"9780399586699",
+"9780399586682"
+
+]
+
+},
+
+{
+
+"label" : "Poland",
+
+"isbns" : [
+
+"9780394531892"
+
+]
+
+},
+
+{
+
+"label" : "Singapore Sapphire",
+
+"isbns" : [
+
+"9781984802644"
+
+]
+
+},
+
+{
+
+"label" : "Somewhere in France",
+
+"isbns" : [
+
+"9780062273451"
+
+]
+
+},
+
+{
+
+"label" : "Stars of Alabama",
+
+"isbns" : [
+
+"9780785226376"
+
+]
+
+},
+
+{
+
+"label" : "The Boston Girl",
+
+"isbns" : [
+
+"9781410475978",
+
+"9781439199350"
+
+]
+
+},
+
+{
+
+"label" : "The Cairo Brief",
+
+"isbns" : [
+
+"9781782642497"
+
+]
+
+},
+
+{
+
+"label" : "The Daughters of Ireland",
+
+"isbns" : [
+
+"9780062456885"
+
+]
+
+},
+
+{
+
+"label" : "The Essex Serpent",
+
+"isbns" : [
+
+"9780062666376"
+
+]
+
+},
+
+{
+
+"label" : "The First Princess of Wales",
+
+"isbns" : [
+
+"9780307237910"
+
+]
+
+},
+
+{
+
+"label" : "The Girl from Venice",
+
+"isbns" : [
+
+"9781439140239",
+
+"9781683242291",
+
+"9781508221883"
+
+]
+
+},
+
+{
+
+"label" : "The Last Kabbalist of Lisbon",
+
+"isbns" : [
+
+"9780879518349"
+
+]
+
+},
+
+{
+
+"label" : "The Last Train to London",
+
+"isbns" : [
+
+"9780062946935",
+"9781643585512",
+"9780062946959",
+"9780062946966"
+
+]
+
+},
+
+{
+
+"label" : "The Light Over London",
+
+"isbns" : [
+
+"9781501196416",
+
+"9781508267478"
+
+]
+
+},
+
+{
+
+"label" : "The Madonnas of Leningrad",
+
+"isbns" : [
+
+"9780060825300"
+
+]
+
+},
+
+{
+
+"label" : "The Malta Exchange",
+
+"isbns" : [
+
+"9781250140265",
+
+"9781432859268",
+
+"9781250140272",
+
+"9781250316523"
+
+]
+
+},
+
+{
+
+"label" : "The Midwife of Venice",
+
+"isbns" : [
+
+"9781451657470"
+
+]
+
+},
+
+{
+
+"label" : "The Prague Cemetery",
+
+"isbns" : [
+
+"9780547577531"
+
+]
+
+},
+
+{
+
+"label" : "The Princes of Ireland",
+
+"isbns" : [
+
+"9780375433016",
+
+"9780385512893"
+
+]
+
+},
+
+{
+
+"label" : "The Serpent of Venice",
+
+"isbns" : [
+
+"9780061779763",
+
+"9780062194879"
+
+]
+
+},
+
+{
+
+"label" : "The Spies of Warsaw",
+
+"isbns" : [
+
+"9781400066025",
+
+"9781588367167"
+
+]
+
+},
+
+{
+
+"label" : "The Stockholm Octavo",
+
+"isbns" : [
+
+"9780061995347"
+
+]
+
+},
+
+{
+
+"label" : "The Widow of Jerusalem",
+
+"isbns" : [
+
+"9780312300890"
+
+]
+
+},
+
+{
+
+"label" : "The Witches of St. Petersburg",
+
+"isbns" : [
+
+"9780062848512"
+
+]
+
+},
+
+{
+
+"label" : "The Wives of Los Alamos",
+
+"isbns" : [
+
+"9781620405031",
+"9781620405055"
+
+]
+
+},
+
+{
+
+"label" : "Vienna Waltz",
+
+"isbns" : [
+
+"9780758254238"
+
+]
+
+},
+
+{
+
+"label" : "Villa America",
+
+"isbns" : [
+
+"9780316211369"
+
+]
+
+}
+
+]
+
+}
+
