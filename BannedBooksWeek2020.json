@@ -115,25 +115,55 @@
 ]
 },
 {
-"label": "The Harry Potter Series",
+"label": "Harry Potter and the Sorcerer's Stone",
 "isbns": [
 "9780590353403",
 "9781524721251",
+]
+},
+{
+"label": "Harry Potter and the Chamber of Secrets",
+"isbns": [
 "9780807281949",
 "9780439064866",
 "9780786222735",
+]
+},
+{
+"label": "Harry Potter and the Prisoner of Azkaban",
+"isbns": [
 "9780786222742",
 "9780807282328",
 "9780439136358",
+]
+},
+{
+"label": "Harry Potter and the Goblet of Fire",
+"isbns": [
 "9780439139595",
 "9780807282595",
+]
+},
+{
+"label": "Harry Potter and the Order of the Phoenix",
+"isbns": [
 "9780439358071",
 "9780807220313",
 "9780786257782",
 "9780807220290",
+]
+},
+{
+"label": "Harry Potter and the Half-Blood Prince",
+"isbns": [
 "9780439784542",
 "9780307283658",
 "9780786277452",
+]
+},
+{
+"label": "Harry Potter and the Deathly Hallows",
+"isbns": [
 "9780739360385",
 "9780786296651",
 "9780545010221"
