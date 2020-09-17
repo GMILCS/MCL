@@ -1,0 +1,373 @@
+{
+
+"label" : "Celebrate 100 Years of Hercule Poirot",
+
+"description" : "List of stories featuring Agatha Christie's detective Hercule Poirot",
+
+"list" : [
+
+{
+
+"label" : "Appointment With Death",
+
+"isbns" : [
+
+"9780060826123"
+
+]
+
+},
+
+{
+
+"label" : "Cat Among the Pigeons",
+
+"isbns" : [
+	
+"9780671418885"
+
+]
+
+},
+
+{
+
+"label" : "Closed Casket",
+
+"isbns" : [
+
+"9780062458827"
+
+]
+
+},
+
+{
+
+"label" : "Curtain : Poirot's Last Case",
+
+"isbns" : [
+
+"9781628991888"
+
+]
+
+},
+
+{
+
+"label" : "Death in the Clouds",
+
+"isbns" : [
+
+"9780425099148"
+
+]
+
+},
+
+{
+
+"label" : "Death on the Nile",	
+
+"isbns" : [
+
+"9780062073556"
+
+]
+
+},
+
+{
+
+"label" : "Evil Under the Sun",	
+
+"isbns" : [
+
+"9781611737745"
+
+]
+
+},
+
+{
+
+"label" : "Hallowe'en Party",	
+
+"isbns" : [
+
+"9781611735147"
+
+]
+
+},
+
+{
+
+"label" : "Hercule Poirot : the Complete Short Stories",
+
+"isbns" : [
+
+"9780062251671"
+
+]
+
+},
+
+{
+
+"label" : "Hercule Poirot's Christmas",
+
+"isbns" : [
+
+"9780061003738",
+
+"9781628990683"
+
+]
+
+},
+
+{
+
+"label" : "Hercule Poirot's Early Cases",
+
+"isbns" : [
+
+"9780396070214"
+
+]
+
+},
+
+{
+
+"label" : "Murder in the Mews",	
+
+"isbns" : [
+
+"9781628990430"
+
+]
+
+},
+
+{
+
+"label" : "Murder on the Orient Express",
+
+"isbns" : [	
+
+"9780060599980",
+
+"9780008249670",
+
+"9780062231543",
+
+"9780062838629",
+
+"9780062073495"
+
+]
+
+},
+
+{
+
+"label" : "Peril at End House",
+
+"isbns" : [
+
+"9780671832117"
+
+]
+
+},
+
+{
+
+"label" : "Problem at Pollensa Bay and Other Stories",
+
+"isbns" : [
+
+"9780062006721"
+
+]
+
+},
+
+{
+
+"label" : "The A.B.C. Murders",	
+
+"isbns" : [
+
+"9780816144594",
+
+"9780060733155",
+
+"9780792754053"
+
+]
+
+},
+
+{
+
+"label" : "The Big Four",
+
+"isbns" : [
+
+"9781611732054"
+
+]
+
+},
+
+{
+
+"label" : "The Early Cases of Hercule Poirot",
+
+"isbns" : [
+
+"9781974933204"
+
+]
+
+},
+
+{
+
+"label" : "The Hollow",	
+
+"isbns" : [
+
+"9781611734867"
+
+]
+
+},
+
+{
+
+"label" : "The Killings at Kingfisher Hill",
+
+"isbns" : [
+
+"9780062792372"
+
+]
+
+},
+
+{
+
+"label" : "The Labors of Hercules : a Hercule Poirot Collection",
+
+"isbns" : [
+
+"9781628990980"
+
+]
+
+},
+
+{
+
+"label" : "The Monogram Murders",
+
+"isbns" : [
+
+"9780062297211"
+
+]
+
+},
+
+{
+
+"label" : "The Murder of Roger Ackroyd",
+
+"isbns" : [
+
+"9781611731385"
+
+]
+
+},
+
+{
+
+"label" : "The Murder on the Links",
+
+"isbns" : [
+
+"9781974933143",
+
+"9781611734300"
+
+]
+
+},
+
+{
+
+"label" : "The Mysterious Affair at Styles",
+
+"isbns" : [
+
+"9781400129195",
+
+"9780062653451",
+
+"9780062073914",
+
+"9781620122921",
+
+"9781611739541"
+
+]
+
+},
+
+{
+
+"label" : "The Mystery of the Blue Train",
+
+"isbns" : [
+
+"9781579126957",
+
+"9781611739886"
+
+]
+
+},
+
+{
+
+"label" : "The Mystery of Three Quarters",
+
+"isbns" : [
+
+"9780062792341"
+
+]
+
+},
+
+{
+
+"label" : "The Patriotic Murders",
+
+"isbns" : [
+
+"9780816145850"
+
+]
+
+}
+
+]
+
+}
