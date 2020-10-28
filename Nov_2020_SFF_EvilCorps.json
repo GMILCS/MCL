@@ -1,0 +1,181 @@
+{
+    "label": "Evil Corporations",
+    "description": "Books with Evil Corporations as protagonists",
+    "list": [
+{
+"label":"Brave new world",
+"isbns": [
+"9780060850524",
+"9780792753520",
+"9780792752257",
+"9780795311253"
+]
+},
+{
+"label":"Coma : a novel",
+"isbns": [
+"9780316155106"
+]
+},
+{
+"label":"Dune",
+"isbns": [
+"9780441013593",
+"9781427218360"
+]
+},
+{
+"label":"Every Other Day",
+"isbns": [
+"9781606842676"
+]
+},
+{
+"label":"Feed",
+"isbns": [
+"9780739344392",
+"9780763617264",
+"9780763651558"
+]
+},
+{
+"label":"Illuminae",
+"isbns": [
+"9780553499117",
+"9781101916643",
+"9780553499131",
+"9781101916650"
+]
+},
+{
+"label":"Insignia",
+"isbns": [
+"9780062092991",
+"9780062093011"
+]
+},
+{
+"label":"Jurassic Park A Novel",
+"isbns": [
+"978030776305"
+]
+},
+{
+"label":"Mind games",
+"isbns": [
+"9780062135315"
+]
+},
+{
+"label":"Nobody",
+"isbns": [
+"9781606843222"
+]
+},
+{
+"label":"Otherworld",
+"isbns": [
+"9781101939321"
+]
+},
+{
+"label":"Railsea",
+"isbns": [
+"9780345524546"
+]
+},
+{
+"label":"Ready player one",
+"isbns": [
+"9780307887436",
+"9780307887450",
+"9780525624837",
+"9780307913159"
+]
+},
+{
+"label":"Shades of Earth : an across the universe novel",
+"isbns": [
+"9781595143990"
+]
+},
+{
+"label":"Skyward. Volume one, 'My low-G life'",
+"isbns": [
+"9781534308336"
+]
+},
+{
+"label":"Starters",
+"isbns": [
+"9780307968371",
+"9780307975232"
+]
+},
+{
+"label":"The collapsing empire",
+"isbns": [
+"9780765388889"
+]
+},
+{
+"label":"The fifth season",
+"isbns": [
+"9780316229296"
+]
+},
+{
+"label":"The gunslinger",
+"isbns": [
+"9780786538690",
+"9781508217411",
+"9781508217428"
+]
+},
+{
+"label":"The Institute",
+"isbns": [
+"9781508279068",
+"9781432870126",
+"9781982110598",
+"9781982110567",
+"9781508279075"
+]
+},
+{
+"label":"The light brigade",
+"isbns": [
+"9781481447966",
+"9781481447980"
+]
+},
+{
+"label":"The maze runner",
+"isbns": [
+"9780375893773",
+"9780385907026"
+]
+},
+{
+"label":"The peripheral",
+"isbns": [
+"9780399158445"
+]
+},
+{
+"label":"Uncaged",
+"isbns": [
+"9780385753067",
+"9780553395518",
+"9780385753081"
+]
+},
+{
+"label":"Virals",
+"isbns": [
+"9781101466728",
+"9781101483633"
+]
+}
+]
+}
