@@ -1,0 +1,406 @@
+{
+
+"label" : "Chrsitmas in New York",
+
+"descrpition" : "Celebrate the holiday season with a historical fiction novel set in New York",
+
+"list" : [
+
+{
+
+"label" : "1876 : a novel", 
+
+"isbns" : [
+
+"9780394497501"
+
+]
+
+},
+
+{
+
+"label" : "31 Bond Street", 
+
+"isbns" : [
+
+"9780061969256",
+
+"9780061773969"
+
+]
+
+},
+
+{ 
+
+"label" : "A New York Christmas",
+
+"isbns" : [
+
+"9780345548467"
+
+]
+
+},
+
+{
+
+"label" : "A Ttree Grows in Brooklyn",
+
+"isbns" : [
+
+"9780786177882",
+
+"9780060736262",
+
+"9780061803024",
+
+"9780060856083"
+					
+]
+
+},
+
+{
+
+"label" : "Brooklyn",
+
+"isbns" : [
+
+"9781602855304"
+					
+]
+
+},
+
+{ 
+
+"label" : "Brooklyn on Fire",
+
+"isbns" : [
+
+"9780553418941"
+
+]
+
+},
+
+{ 
+
+"label" : "Golden Hill : a Novel of Old New York",
+
+"isbn" : [
+
+"9781501163876"
+
+]
+
+},
+
+{ 
+
+"label" : "If Beale Street Could Talk", 
+
+"isbns" : [
+
+"9780804149679",
+
+"9781504680783"
+
+]
+
+},
+
+{ 
+
+"label" : "Jazz", 
+
+"isbn" : [
+
+"9780788739675"
+
+]
+
+}, 
+
+{ 
+
+"label" : "Last Stop in Brooklyn",
+
+"isbn" : [	
+
+"9780451498441"
+
+]
+
+},
+
+{ 
+
+"label" : "Let the Great World Spin",
+
+"isbns" : [
+
+"9781602857643",
+
+"9781400063734",
+
+"9781588368737"
+
+]
+
+}, 
+
+{ 
+
+"label" : "Manhattan Beach",
+
+"isbns" : [
+
+"9781432843410",
+
+"9788498389326",
+
+"9781476716732",
+
+"9781442399990",
+
+"9781476716756"
+			
+]
+
+},
+
+{ 
+
+"label" : "New York : the novel",
+
+"isbns" : [
+
+"9780385521383",
+
+"9780345497420",
+
+"9781415962817"
+
+]
+
+},
+
+{
+
+"label" : "Park Avenue Summer",
+
+"isbns" : [
+
+"9781101991152",
+
+"9781101991145",
+
+"9781984846921"
+
+]
+
+},
+
+{ 
+
+"label" : "Saint Mazie",
+
+"isbns" : [
+
+"9781478933458"
+
+]
+
+},
+
+{ 
+
+"label" : "The Age of Innocence",
+
+"isbns" : [	
+
+"9780812567106",
+
+"9780020598909",
+
+"9781588274649",
+
+"9781597227285",
+
+"9781624069901",
+
+"9781483089553",
+
+"9780767848947"
+
+]
+
+},
+
+{ 
+
+"label" : "The Alienist",
+
+"isbns" : [
+
+"9780553572995",
+
+"9781402589027",
+
+"9781588365408"
+
+]
+
+},
+
+{
+
+"label" : 
+
+"The Chelsea Girls", 
+
+"isbns" : [	
+
+"9781524744588",
+
+"9781524744595"
+
+
+]
+
+},
+
+{
+
+"label" : "The Dollhouse",
+
+"isbns" : [	
+
+"9781101985007",
+
+"9781101984994"
+			
+]
+
+},
+
+{ 
+
+"label" : "The Gods of Gotham",
+
+"isbns" : [
+
+"9780399158377",
+
+"9781611207002"
+
+]
+
+},
+
+{ 
+
+"label" : "The Iron King",
+
+"isbns" : [
+
+"9780007491261"
+
+]
+
+},
+
+{ 
+
+"label" : "The Lions of Fifth Avenue",
+
+"isbns" : [
+
+"9781524744625",
+
+"9781524744618",
+
+"9780593285985"
+
+]
+
+},
+
+{
+
+"label" : "The Museum of Extraordinary Things", 
+
+"isbns" : [	
+
+"9781628990379",
+
+"9781442367616",
+
+"9781451693560"
+
+]
+
+},
+
+{
+
+"label" : "The Other Typist",
+
+"isbns" : [	
+
+"9780399161469"
+
+]
+
+},
+
+{
+
+"label" : "The Parting Glass",
+
+"isbns" : [	
+
+"9781501198434"
+
+]
+
+},
+
+{ 
+
+"label" : "The Swans of Fifth Avenue", 
+
+"isbns" : [	
+
+"9780345539755",
+
+"9780345528698",
+
+"0781101922750",
+
+"9781101922781"
+
+]
+
+},
+
+{ 
+
+"label" : "The Witches of New York",
+
+"isbns" : [
+
+"9780062359933",
+
+"9780062359926"
+
+]
+
+}
+
+]
+
+}
