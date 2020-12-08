@@ -2,19 +2,23 @@
 "description" : "December Thrillers",
 "label" : "Thrillers",
 "list" : [
-{  
+{
+"label" : "Two Nights",
+"isbns" : [
+"9780804147873",
+  "9780345544070",
+  "9781524755577",
+  "9780804147880",
+  "9780345544087"
+]
+},
+  {  
 "label" : "Year One",
 "isbns" : [
 "9781250122988",
 "9781250122957",
 "9781531834449",
 "9781432844035"
-]
-},
-{
-"label" : "Parable of the Talents",
-"isbns" : [
-"9781453263624"
 ]
 },
 {
