@@ -3,6 +3,15 @@
 "label" : "Thrillers",
 "list" : [
 {
+"label" : "Nine Perfect Strangers",
+"isbns" : [
+"9781250069825",
+  "9781427299147",
+  "9781432859008",
+  "9781250069849"
+]
+},
+  {
 "label" : "Eight Perfect Murders",
 "isbns" : [
 "9780062978936",
@@ -64,12 +73,6 @@
 "9781250122957",
 "9781531834449",
 "9781432844035"
-]
-},
-{
-"label" : "The Age of Innocence",
-"isbns" : [
-"9781483089553"
 ]
 },
 {
