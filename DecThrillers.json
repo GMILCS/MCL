@@ -3,6 +3,15 @@
 "label" : "Thrillers",
 "list" : [
 {
+  "label" : "The Woman in Cabin 10",
+  "isbns" : [
+    "9781501132933",
+    "9781501132940",
+    "9781508217763",
+    "9781501132957"
+    ]
+},
+  {
 "label" : "Nine Perfect Strangers",
 "isbns" : [
 "9781250069825",
@@ -75,24 +84,6 @@
 "9781531834449",
 "9781432844035"
 ]
-},
-{
-  "label" : "Dear Life",
-  "isbns" : [
-    "9780307961044"
-    ]
-},
-{
-  "label" : "Are You There God? It's Me, Margaret",
-  "isbns" : [
-    "9780307817747"
-    ]
-},
-{
-  "label" : "The Color Purple",
-  "isbns" : [
-    "9781453223970"
-    ]
 }
 ]
 }
