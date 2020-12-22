@@ -1,0 +1,411 @@
+{
+
+"label" : "Read Around the Clock",
+
+"description" : "Books with numbers in the title",
+
+"list" : [
+
+
+{
+
+"label" : "One Fatal Flaw", 
+
+"isbns" : [ 
+
+"9780593129524",
+
+"9781432876074",
+
+"9780593129531"
+
+]
+
+},
+
+{ 
+
+"label" : "One Good Deed", 
+
+"isbns" : [
+
+"9781538750568",
+
+"9781538750575",
+
+"9781549151941",
+
+"9781538750728",
+
+"9781549152771"
+				
+]
+
+},
+
+{
+
+"label" : "The One Man",
+
+
+"isbns" : [
+
+"9781250079503",
+
+"9781427279880",
+
+"9781683241553"
+
+]
+
+},
+
+{
+
+"label" : "A Tale of Two Cities",
+
+"isbns" : [
+
+"9781593080556",
+
+"9780141439600",
+
+"9781400126361",
+
+"9780899261218"
+
+]
+
+},
+
+{
+
+"label" : "The Two-Family House", 
+
+"isbns" : [
+
+"9781250076922"
+
+]
+
+},
+
+{ 
+
+"label" : "Two Fronts",
+
+"isbns" : [
+
+"9780345524683"
+
+]
+
+},
+
+{
+
+"label" : "Two O'Clock, Eastern Wartime",
+
+"isbns" : [ 
+
+"9780743201957"
+
+]
+
+},
+
+{
+
+"label" : "Universe of Two",
+
+"isbns" : [ 	
+
+"9780062878465",
+
+"9780062878441"
+
+]
+
+},
+
+{
+
+"label" : "Where Two Seas Met",
+
+"isbns" : [
+
+"9780786260553"
+
+]
+
+},
+
+
+{
+
+"label" : "Three Hours in Paris", 
+
+"isbns" : [
+
+"9781641290418",
+
+"9781641290425"
+
+]
+
+},
+
+{
+
+"label" : "Three Sisters, Three Queens",
+
+"isbns" : [ 	
+
+"9781476758572",
+
+"9781508211587"
+
+]
+
+},
+
+{
+
+
+"label" : "Four Spirits", 
+
+"isbns" : [
+
+"9780066212388"
+
+]
+
+},
+
+{
+
+"label" : "The Lions of Fifth Avenue", 
+
+"isbns" : [ 
+
+"9781524744625",
+
+"9781524744618",
+
+"9780593285985"
+			
+]
+
+},
+
+{
+
+"label" : "The Swans of Fifth Avenue",
+
+"isbns" : [
+
+"9780345539755",
+
+"9780345528698",
+
+"9781101922750",
+
+"9781101922781"
+
+]
+
+},
+
+{
+
+"label" : "Agent 6", 
+
+"isbns" : [
+
+"9780446550765",
+
+"9781611131024"
+
+]
+
+},
+
+{
+
+"label" : "Daisy Jones & The Six", 
+
+"isbns" : [ 
+
+"9781984845313",
+
+"9781524798628",
+
+"9781984845306",
+
+"9781524798635",
+
+"9781984845320"
+			
+]
+
+},
+
+{ 
+
+"label" : "Empress of the Seven Hills", 
+
+"isbns" : [ 	
+
+"9780425242025"
+
+]
+
+},
+
+{
+
+"label" : "The List of Seven",
+
+"isbns" : [
+
+"9780688122454"
+
+] 
+
+},
+
+{
+
+"label" : "A Brief History of Seven Killings",
+
+"isbns" : [ 
+
+"9781594486005",
+
+"9780698170506"
+
+]
+
+},
+
+{
+
+"label" : "Seven Dials", 
+
+"isbns" : [ 
+
+"9780345440075",
+
+"9780786252107"
+
+]
+
+},
+
+{ 
+
+"label" : "Seven Stones to Stand or Fall", 
+
+"isbns" : [ 	
+
+"9780399593420",
+	
+"9781501932601",
+
+"9781683245995"
+			
+]
+
+},
+
+{
+
+"label" : "The Seven or Eight Deaths of Stella Fortuna",
+
+"isbns" : [
+
+"9780062862822",
+
+"9780062862846",
+
+"9780062917614"
+
+]
+
+},
+
+{
+
+"label" : "Orphan #8", 
+
+"isbns" : [
+
+"9780062338303",
+
+"9780062395436"
+
+]
+
+},
+
+{
+
+"label" : "The Ninth Hour",
+
+"isbns" : [ 
+
+"9780374280147",
+
+"9781427289209"
+
+]
+
+},
+
+{
+
+"label" : "The Tenth Muse",
+
+ "isbns" : [ 
+
+"9780062574091",
+
+"9780062917690"
+
+]
+
+},
+
+{
+
+"label" : "The Darling Dahlias and the Eleven O'clock Lady",
+
+"isbns" : [ 
+
+"9780425260623",
+
+"9780698185647"
+
+]
+
+},
+
+{ 
+
+"label" : "The Twelve Tribes of Hattie",
+
+"isbns" : [ 	
+
+"9780385350303",
+
+"9780385350280",
+
+"9780804127288"
+			
+]
+
+}
+
+]
+
+}
