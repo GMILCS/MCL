@@ -1,17 +1,25 @@
 {
-  "label": "May Mystery and Thriller Selection",
-  "description": "A selection of Thrillers by Female Authors",
+  "label": "Top Thrillers of 2020",
+  "description": "Most Circulated Thriller titles of 2020",
   "list": [
     {
-      "label": "The Monogram Murders",
+      "label": "Walk the Wire",
       "isbns": [
-        "9780062297235"
+        "9781549104978",
+        "9781538761465",
+        "9781538761496",
+        "9781538752111",
+        "9781549104992"
         ]
     },
     {
-      "label": "The Body in the Casket",
+      "label": "Camino Winds",
       "isbns": [
-        "9780062439581"
+        "9780593168448",
+        "9780593168424",
+        "9780385545938",
+        "9780385545945",
+        "9780593168615"
       ]
     },
     {
