@@ -1,0 +1,275 @@
+{
+
+"label" : "Read Something Sweet for Valentine's Day",
+
+"description" : "Historical fiction books with baking themed titles",
+
+"list" : [
+
+{
+
+"label" : "A Cup of Tea",
+
+"isbns" : [ 
+
+"9780688149970"
+
+]
+
+},
+
+{
+
+"label" : "A Tall History of Sugar",
+
+"isbns" : [
+
+"9781617757518",
+
+"9781617757815"
+
+]
+
+},
+
+{
+
+"label" : "Baker Towers", 
+
+"isbns" : [
+
+"9780060509415",
+
+"9780792744238"
+
+]
+
+},
+
+{
+
+"label" : "Cinnamon and Gunpowder", 
+
+"isbns" : [ 
+
+"9781427235923"
+
+]
+
+},
+
+{
+
+"label" : "Cinnamon Kiss", 
+
+"isbns" : [
+
+"9781594832529"
+
+]
+
+},
+
+{ 
+
+"label" : "Glory Over Everything : Beyond the Kitchen House", 
+
+"isbns" : [ 
+
+"9781476748443",
+
+"9781442397736"
+
+]
+
+},
+
+{ 
+
+"label" : "Hotel on the Corner of Bitter and Sweet",
+
+"isbns" : [ 
+
+"9780345512505",
+
+"9781415962107"
+
+]
+
+},
+
+{ 
+
+"label" : "Island of Sweet Pies and Soldiers", 
+
+"isbns" : [ 
+
+"9780778319214",
+
+"9781488204043",
+
+"9781488080456"
+
+]
+
+},
+
+{ 
+
+"label" : "Sweet Tooth", 
+
+"isbns" : [ 
+
+"9781464049507",
+
+"9780385536820",
+
+"9780385536837"
+
+
+]
+
+},
+
+{ 
+
+"label" : "The Baker's Secret", 
+
+"isbns" : [ 
+
+"9780062369581",
+
+"9781432841133",
+
+"9780062369604"
+
+]
+
+},
+
+{ 
+
+"label" : "The Chocolate Maker's Wife", 
+
+"isbns" : [ 
+
+"9780062686596"
+
+
+] 
+
+},
+
+{ 
+
+"label" : "The Kitchen Boy", 
+
+"isbns" : [ 
+
+"9780670031788"
+
+]
+
+},
+
+{
+
+"label" : "The Nutmeg of Consolation", 
+
+"isbns" : [ 
+
+"9780393030327",
+
+"9780786154807"
+
+]
+
+},
+
+{ 
+
+"label" : "The Pigeon Pie Mystery", 
+
+"isbns" : [
+
+"9780385535564",
+
+"9780385535571",
+
+"9780449013755"
+
+]
+
+},
+
+{
+
+"label" : "The Sugar Camp Quilt", 
+
+"isbns" : [ 
+
+"9780743260176",
+
+"9780786274956",
+
+"9781419339004"
+
+]
+
+},
+
+{
+
+"label" : "The Tea Planter's Wife", 
+
+"isbns" : [ 
+
+"9780451495990",
+
+"9781410497413",
+
+"9780451495976"
+		
+]
+
+},
+
+{ 
+
+"label" : "The Tea Rose", 
+
+"isbns" : [ 
+
+"9780312288358"
+
+]
+
+}, 
+
+{ 
+
+"label" : "The Witches' Kitchen",
+
+"isbns" : [ 
+
+"9780312848866"
+
+] 
+
+}, 
+
+{ 
+
+"label" : "Tomorrow's Bread", 
+
+"isbns" : [ 
+
+"9780758254108"
+
+]
+
+}
+
+]
+
+}
