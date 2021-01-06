@@ -1,12 +1,11 @@
 {
-  "label": "National Library Week",
-  "description": "Books to celebrate National Library Week",
+  "label": "Space Exploration",
+  "description": "Space Exploration",
   "list": [
     {
-      "label": "The Book Woman of Troublesome Creek",
+      "label": "Teacher in Space",
       "isbns": [
-        "9781492671541",
-        "9781538522035"
+        "9780803261829"
       ]
     },
     {
