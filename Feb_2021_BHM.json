@@ -1,0 +1,336 @@
+{
+    "label": "Black History Month",
+    "description": "Celebrate Black stories and Black authors!",
+    "list": [
+{
+"label":"An American Marriage, by Tayari Jones",
+"isbns": [
+"9781432845360",
+"9781681688336",
+"9781616207601",
+"9781681688343",
+"9781616208776"
+]
+},
+{
+"label":"Becoming, by Michelle Obama",
+"isbns": [
+"9780525633679",
+"9780525633754",
+"9781524763138",
+"9780525633686",
+"9781524763152"
+]
+},
+{
+"label":"Beloved, by Toni Morrison",
+"isbns": [
+"9780896211230",
+"9780739342275",
+"9780739346747",
+"9780452280625",
+"9780452264465",
+"9781400033416",
+"9781415935354"
+]
+},
+{
+"label":"Between the World and Me, by Ta-Nehisi Coates",
+"isbns": [
+"9780679645986",
+"9780812993547",
+"9781410485847",
+"9780451482211",
+"9780147520517"
+]
+},
+{
+"label":"Black Leopard, Red Wolf, by Marlon James",
+"isbns": [
+"9780735220171",
+"9780735220195",
+"9780525526834"
+]
+},
+{
+"label":"Brown Girl Dreaming, by Jacqueline Woodson",
+"isbns": [
+"9780399252518",
+"9780553397277"
+]
+},
+{
+"label":"Children of Blood and Bone, by Tomi Adeyemi",
+"isbns": [
+"9781250170972",
+"9781427295507",
+"9781250170989"
+]
+},
+{
+"label":"Clap When You Land, by Elizabeth Acevedo",
+"isbns": [
+"9780062882769",
+"9780062882783",
+"9780063011816"
+]
+},
+{
+"label":"The Color Purple, by Alice Walker",
+"isbns": [
+"9780151191543",
+"9781453223970"
+]
+},
+{
+"label":"Dreams From My Father; A Story of Race and Inheritance, by Barak Obama",
+"isbns": [
+"9781400082773"
+]
+},
+{
+"label":"Everything Inside: Stories, by Edwidge Danticat",
+"isbns": [
+"9780525521273",
+"9780525521280"
+]
+},
+{
+"label":"Freshwater, by Akwaeke Emezi",
+"isbns": [
+"9780802127358",
+"9780802165565"
+]
+},
+{
+"label":"Gingerbread, by Helen Oyeyemi",
+"isbns": [
+"9781594634659",
+"9780525539087"
+]
+},
+{
+"label":"Girl Gurl Grrrl: On Womanhood and Belonging in the Age of Black Girl Magic, by Kenya Hunt ",
+"isbns": [
+"9780062987648",
+"9780062987655"
+]
+},
+{
+"label":"Go Tell it On the Mountain, by James Baldwin",
+"isbns": [
+"9780679601548"
+]
+},
+{
+"label":"Grand Union: Stories, by Zadie Smith",
+"isbns": [
+"9780525558996",
+"9780525559009"
+]
+},
+{
+"label":"The Hate U Give, by Angie Thomas",
+"isbns": [
+"9780062498533",
+"9780062677082",
+"9780062498557",
+"9780062677099"
+]
+},
+{
+"label":"Hitting a Straight Lick with a Crooked Stick: Stories from the Harlem Renaissance, by Zora Neale Hurston",
+"isbns": [
+"9780062954039",
+"9780062915795",
+"9780062915818"
+]
+},
+{
+"label":"How We Fight for Our Lives: A Memoir, by Saeed Jones",
+"isbns": [
+"9781501132735"
+]
+},
+{
+"label":"Hunger: A Memoir of (My) Body, by Roxanne Gay",
+"isbns": [
+"9780062362599",
+"9780062569684",
+"9780062470256",
+"9780062362605",
+"9781504734417"
+]
+},
+{
+"label":"I Know Why the Caged Bird Sings, by Maya Angelou",
+"isbns": [
+"9780375507892",
+"9780553279375",
+"9781588369253"
+]
+},
+{
+"label":"Invisible Man, by Ralph Ellison",
+"isbns": [
+"9780679732761",
+"9780679601395",
+"9780307743992",
+"9781402553844"
+]
+},
+{
+"label":"It's Not All Downhill From Here: A Novel, by Terry McMillan",
+"isbns": [
+"9781984823748",
+"9781984823762",
+"9780593148136"
+]
+},
+{
+"label":"Life After Death, by Sister Souljah",
+"isbns": [
+"9781982139131"
+]
+},
+{
+"label":"More Than Enough: Claiming Space for Who You Are (No Matter What), by Elaine Welteroth",
+"isbns": [
+"9781984889409",
+"9780525561583"
+]
+},
+{
+"label":"My Sister, the Serial Killer: A Novel, by Oyinkan Braithwaite",
+"isbns": [
+"9781432860219",
+"9780385544238",
+"9780525643289",
+"9780385544245"
+]
+},
+{
+"label":"Patsy: A Novel, by Nicole Dennis-Benn",
+"isbns": [
+"9781631495632"
+]
+},
+{
+"label":"Queenie: A Novel, by Candice Carty-Williams",
+"isbns": [
+"9781508277972",
+"9781501196010"
+]
+},
+{
+"label":"A Raisin in the Sun, by Lorraine Hansberry",
+"isbns": [
+"9780679755333"
+]
+},
+{
+"label":"Red at the Bone, by Jacqueline woodson",
+"isbns": [
+"9780525535270",
+"9780593152256",
+"9780593147078",
+"9780525535294"
+]
+},
+{
+"label":"Redefining Realness: My Path to Womanhood, Identity, Love & So Much More, by Janet Mock",
+"isbns": [
+"9781476709123"
+]
+},
+{
+"label":"Sing, Unburied, Sing: A Novel, by Jesmyn Ward",
+"isbns": [
+"9781432846527",
+"9781501126062",
+"9781508236139"
+]
+},
+{
+"label":"Sister Outsider, by Audre Lorde",
+"isbns": [
+"9780143134442"
+]
+},
+{
+"label":"Such a Fun Age: A Novel, by Kiley Reid",
+"isbns": [
+"9780593107072",
+"9780525541905",
+"9780525541929",
+"9780593294611"
+]
+},
+{
+"label":"Their Eyes Were Watching God: A Novel, by Zora Neale Hurston",
+"isbns": [
+"9780060916503"
+]
+},
+{
+"label":"The Underground Railroad: A Novel, by Colson Whitehead",
+"isbns": [
+"9781524736255",
+"9780385542364",
+"9780385537049",
+"9781524736309",
+"9781524736262",
+"9781524736286"
+]
+},
+{
+"label":"The Vanishing Half: A Novel, by Brit Bennett",
+"isbns": [
+"9780525536291",
+"9780525536970",
+"9780525637165",
+"9780593286104",
+"9780593416969"
+]
+},
+{
+"label":"The Water Dancer: A Novel, by Ta-Nehisi Coates",
+"isbns": [
+"9780399590603",
+"9780525494874",
+"9780399590597",
+"9780593168196"
+]
+},
+{
+"label":"We Should All Be Feminists, by Chimamanda Ngozi Adichie",
+"isbns": [
+"9781101911761",
+"9781524781774"
+]
+},
+{
+"label":"Well-Read Black Girl: Finding Our Stories, Discovering Ourselves: An Anthology, by Glory Edim",
+"isbns": [
+"9780525619789",
+"9780525619772"
+]
+},
+{
+"label":"White Ivy: A Novel, by Susie Yang",
+"isbns": [
+"9781982100612",
+"9781982100599"
+]
+},
+{
+"label":"The Yellow House: A Memoir, by Sarah M. Broom",
+"isbns": [
+"9780802146540",
+"9780802125088",
+"9780802149039",
+"9780802146540"
+]
+}
+]
+}
