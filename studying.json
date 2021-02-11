@@ -1,0 +1,48 @@
+
+{
+
+"description" : "books on studying",
+  
+"label" : "Study help",
+
+"list" : [
+  
+{  
+
+"label" : "101 Ways to Make Studying Easer and Faster for College Students",
+
+"isbns" : [
+
+"9781601382498"
+
+]
+
+},
+
+{
+
+"label" : "A Mind for Numbers",
+
+"isbns" : [
+
+"9780399165245"
+
+]
+
+},
+
+{
+
+"label" : "Vocab Rock: Musical prep for the SAT and ACT",
+
+"isbns" : [
+
+"9780768923056"
+
+]
+
+}
+
+]
+
+}
