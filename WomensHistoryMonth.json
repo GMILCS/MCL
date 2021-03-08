@@ -1,20 +1,45 @@
 {
 
-"description" : "Celebrate Women's History Month with a Biography by or about a woman",
-
 "label" : "Women's History Month",
 
-"list" : [
+"description" : "Historical fiction books with female main characters",
+
+"list" :
+
+[
 
 {
 
-"label" : "Open Book",
+"label" : "A Reliable Wife",
+
+"isbns" : [ 
+"9781410417381",
+"9781616200008",
+"9781565129382"
+
+]
+
+},
+
+{ 
+
+"label" : "Beauty's Daughter The Story of Hermione and Helen of Troy", 
+
+"isbns" : [ 
+
+"9780544108776"
+
+]
+
+},
+
+{ 
+
+"label" : "Cleopatra's Daughter",
 
 "isbns" : [
 
-"9780062905000",
-
-"9780062899989"
+"9780307409126"
 
 ]
 
@@ -22,23 +47,13 @@
 
 {
 
-"label" : "Normal",
+"label" : "Secret Daughter", 
 
-"isbns" : [
+"isbns" : [ 
 
-"9780358172260"
+"9780061922312",
 
-]
-
-},
-
-{
-
-"label" : "Uncanny Valley",
-
-"isbns" : [
-
-"9780374719760"
+"9780061981463"
 
 ]
 
@@ -46,11 +61,25 @@
 
 {
 
-"label" : "Mary Ball Washington",
+"label" : "The Apothecary's Daughter",
 
 "isbns" : [
 
-"9780062456533"
+"9780764204807"
+
+]
+
+},
+
+{ 
+
+"label" : "The Aviator's Wife", 
+
+"isbns" : [ 
+
+"9780345528674",
+
+"9780385360357"
 
 ]
 
@@ -58,23 +87,11 @@
 
 {
 
-"label" : "The Measure of Our Lives",
+"label" : "The Baker's Daughter", 
 
-"isbns" : [
+"isbns" : [ 
 
-"9780525659303"
-
-]
-
-},
-
-{
-
-"label" : "A Song For You",
-
-"isbns" : [
-
-"9781524742867"
+"9780307460202"
 
 ]
 
@@ -82,11 +99,49 @@
 
 {
 
-"label" : "No One Is Too Small to Make a Difference",
+"label" : "The Bonesetter's Daughter", 
+
+"isbns" : [ 
+
+"9780399146435",
+
+"9781597770767"
+		
+]
+
+},
+
+{ 
+
+"label" : "The Chocolate Maker's Wife", 
+
+"isbns" : [ 
+
+"9780062686596"
+
+]
+
+}, 
+
+{
+
+"label" : "The Diplomat's Wife", 
+
+"isbns" : [ 
+
+"9781459248366"
+
+]
+
+},
+
+{ 
+
+"label" : "The Doctor's Wife", 
 
 "isbns" : [
 
-"9780525505372"
+"9781101223451"
 
 ]
 
@@ -94,11 +149,13 @@
 
 {
 
-"label" : "Little Weirds",
+"label" : "The Duke's Perfect Wife",
 
 "isbns" : [
 
-"9780316492652"
+"9781452677910",
+
+"9781101561591"
 
 ]
 
@@ -106,11 +163,41 @@
 
 {
 
-"label" : "The Queens of Animation",
+"label" : "The Kingmaker's Daughter", 
 
-"isbns" : [
+"isbns" : [ 
 
-"9780316453790"
+"9781451626070",
+
+"9781410452160"
+
+]
+
+},
+
+{ 
+
+"label" : "The Kitchen God's Wife",
+
+"isbns" : [ 
+
+"9781101004753"
+
+]
+
+},
+
+{ 
+
+"label" : "The Lighthouse Keeper's Daughter",
+
+"isbns" : [ 
+
+"9780062869302",
+
+"9780062867087",
+
+"9780062698636"
 
 ]
 
@@ -118,11 +205,25 @@
 
 {
 
-"label" : "Touched by the Sun",
+"label" : "The Locksmith's Daughter", 
 
-"isbns" : [
+"isbns" : [ 
 
-"9780374721718"
+"9780062686572"
+
+]
+
+},
+
+{ 
+
+"label" : "The Madman's Daughter",
+
+"isbns" : [ 
+
+"9780062128041",
+
+"9780062246110"
 
 ]
 
@@ -130,23 +231,15 @@
 
 {
 
-"label" : "Home Work",
+"label" : "The Memory Keeper's Daughter",
 
-"isbns" : [
+"isbns" : [ 
 
-"9780306846601"
+"9780786276929",
 
-]
+"9781428125551",
 
-},
-
-{
-
-"label" : "Life Undercover",
-
-"isbns" : [
-
-"9780525654988"
+"9780670034161"
 
 ]
 
@@ -154,23 +247,13 @@
 
 {
 
-"label" : "Inside Out",
+"label" : "The Painter's Daughter",
 
-"isbns" : [
-  
-  "9780062049551"
+"isbns" : [ 
 
-]
+"9780764216022",
 
-},
-
-{
-
-"label" : "Queen Meryl",
-
-"isbns" : [
-
-"9780316485265"
+"9781441228802"
 
 ]
 
@@ -178,11 +261,29 @@
 
 {
 
-"label" : "The Year of the Monkey",
+"label" : "The Paris Wife", 
 
-"isbns" : [
+"isbns" : [ 
 
-"9780525657699"
+"9780345521309",
+
+"9780307877185",
+
+"9780345521323",
+
+"9780307877215"
+			
+]
+
+},
+
+{
+
+"label" : "The Pilot's Wife",
+
+"isbns" : [ 
+
+"9780316025676"
 
 ]
 
@@ -190,11 +291,26 @@
 
 {
 
-"label" : "What is a Girl Worth?",
+"label" : "The Ringmaster's Wife",
 
 "isbns" : [
 
-"9781496441362"
+"9780718091415"
+
+]
+
+},
+
+{ 
+
+"label" : "The Shoemaker's Wife",
+
+
+"isbns" : [
+
+"9780385367776",
+
+"9780061257094"
 
 ]
 
@@ -202,23 +318,11 @@
 
 {
 
-"label" : "The Education of an Idealist",
+"label" : "The Soldier's Wife",
 
-"isbns" : [
+"isbns" : [ 
 
-"9780062820716"
-
-]
-
-},
-
-{
-
-"label" : "The Yellow House",
-
-"isbns" : [
-
-"9780802146540"
+"9781401341701"
 
 ]
 
@@ -226,11 +330,92 @@
 
 {
 
-"label" : "River of Fire",
+"label" : "The Taxidermist's Daughter",
 
 "isbns" : [
 
-"9781984855411"
+"9780062402158"
+
+]
+
+},
+
+{
+
+"label" : "The Tea Planter's Wife",
+
+"isbns" : [
+
+"9780451495990",
+
+"9780451495976"
+
+]
+
+},
+
+{ 
+
+"label" : "The Tiger's Wife", 
+
+"isbns" : [ 
+
+"9780307877031",
+"9780679604365"
+
+]
+
+},
+
+{ 
+
+"label" : "The Time Traveler's Wife",
+
+"isbns" : [ 
+
+"9780156029438",
+"9780156029438",
+"9781598872712"
+
+]
+
+},
+
+{
+
+"label" : "The Tsarina's Daughter", 
+
+"isbns" : [ 
+
+"9780312367381"
+
+]
+
+},
+
+{
+
+"label" : "The Widower's Wife", 
+
+"isbns" : [ 
+
+"9781515983958",
+
+"9781629537801"
+
+]
+
+},
+
+{ 
+
+"label" : "Tony's Wife", 
+
+"isbns" : [ 
+
+"9780062319258",
+"9780062319272",
+"9780062866646"
 
 ]
 
@@ -239,4 +424,3 @@
 ]
 
 }
-
