@@ -22,6 +22,57 @@
     
   },
   
+  {
+    
+    "label" : "The Paris Dressmaker",
+    
+    "isbnes" : [
+    
+    "9781488055331"
+    
+    ]
+    
+  },
+  
+  {
+    
+    "label" : "The Paris Hours",
+    
+    "isbns" : [
+      
+      "9781250751799"
+      
+      ]
+    
+  },
+
+  {
+    
+    "label" : "Paris Never Leaves You",
+    
+    "isbns" : [
+      
+      "9781250622778",
+      
+      "9781250759894"
+      
+      ]
+    
+  },
+  
+  {
+    
+    "label" : "The Paris Model",
+    
+    "isbnes" : [
+      
+      "9781250759894"
+      
+      ]
+    
+  },
+  
+      
 {  
 
 "label" : "All the Flowers in Paris",
@@ -53,7 +104,6 @@
 "label" : "Enchantress of Paris",
 
 "isbns" : [
-
 
 "9781250057099"
 
@@ -144,6 +194,22 @@
 "isbns" : [
 
 "9781501197215"
+
+]
+
+},
+  
+  {
+
+"label" : "The Black Swan of Paris",
+
+"isbns" : [
+
+"9780778309338",
+  
+  "9781488055331",
+  
+  "9781432880484"
 
 ]
 
