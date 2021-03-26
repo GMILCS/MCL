@@ -1,0 +1,272 @@
+
+
+"label" : "Missleading Book Titels",
+
+"descriptions" : "Books with titles that don't match the book",
+
+"list" : [
+
+
+{
+
+"label" : "A Guide for Murdered Children",
+
+"isbns" : [ 
+
+"9780399574528"
+
+]
+
+},
+
+{ 
+
+"label" : "A Short History of Tractors in Ukrainian",
+
+"isbns" : [
+
+"9780143036746"
+
+]
+
+},
+
+{ 
+
+"label" : "An Arsonist's Guide to Writers' Homes in New England",
+
+"isbns" : [ 
+
+"9781565125513"
+
+]
+
+},
+
+{ 
+
+"label" : "Animal farm", 
+
+"isbns" : [ 
+
+"9780788744754",
+
+"9780679420392",
+
+"9780452277502",
+
+"9780451526342",
+
+"9780451524669",
+
+"9780452284241"
+			
+]
+
+},
+
+{ 
+
+"label" : "Baby's First Felony", 
+
+"isbns" : [ 
+
+"9781616958787"
+
+]
+
+},
+
+{ 
+
+"label" : "How to Build a Girl", 
+
+"isbns" : [ 
+
+"9780062350817"
+
+]
+
+},
+
+{ 
+
+"label" : "How to Stop Time",
+
+"isbns" : [ 
+
+"9780525522874"
+
+]
+
+}, 
+
+{ 
+
+"label" : "Instructions for a Heatwave",
+
+"isbns" : [ 
+
+"9780804120708",
+
+"9780385349413"
+
+]
+
+},
+
+{ 
+
+"label" : "The Art of Crash Landing",
+
+"isbns" : [ 
+
+"9780062390554"
+
+]
+
+},
+
+{ 
+
+"label" : "The Art of Racing in the Rain", 
+
+"isbns" : [ 
+
+"9780061565403",
+
+"9780061537936",
+
+"9780061562402"
+
+]
+
+},
+
+{ 
+
+"label" : "The Catcher in the Rye", 
+
+"isbns" : [ 
+
+"9780316769174",
+
+"9780316769488",
+
+"9780791092965"
+
+]
+
+},
+
+{ 
+
+"label" : "The Ex-boyfriend's Handbook",
+
+"isbns" : [ 
+
+"9781402243455"
+
+]
+
+},
+
+{ 
+
+"label" : "The Intern's Handbook",
+
+"isbns" : [
+
+"9781476733807"
+
+]
+
+}, 
+
+{
+
+"label" : "The Jungle", 
+
+"isbns" : [ 
+
+"9781566195522"
+
+]
+
+}, 
+
+{ 
+
+"label" : "The Manual of Detection", 
+
+"isbns" : [ 
+
+"9781598878783"
+
+]
+
+}, 
+
+{
+
+"label" : "The Neverending Story",
+
+"isbns" : [ 
+
+"9781452606309"
+
+]
+
+},
+
+{ 
+
+"label" : "The Revised Fundamentals of Caregiving", 
+
+"isbns" : [ 
+
+"9781616200398",
+
+"9781611749007",
+
+"9781616203177"
+
+]
+
+},
+
+{
+
+"label" : "The Young Widower's Handbook",
+
+"isbns" : [ 
+
+"9781616206543"
+
+]
+
+},
+
+{ 
+
+"label" : "To Kill a Mockingbird",
+
+"isbns" : [ 
+
+"9780446310789",
+
+"9780060888695",
+
+"9781417662104",
+
+"9780062368683",
+
+"9780062798183"
+
+]
+
+}
+
+]
+
+}
