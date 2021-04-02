@@ -1,0 +1,166 @@
+{
+
+"label" : "May is  Bike Month",
+
+"descriptions" : "Celebrate bike month with a book on biking and bike repair",
+
+"list" : [
+
+{ 
+"label" : "Bicycling", 
+
+"isbns" : [ 
+
+"9781560652649"
+
+]
+
+},
+
+{ 
+
+"label" : "Bicycling Magazine's Mountain Biking Skills", 
+
+"isbns" : [ 
+
+"9781594862991"
+		
+]
+
+},
+
+{ 
+
+"label" : "Complete Bike Maintenance", 
+
+"isbns" : [ 
+
+"9780760340257"
+
+]
+
+},
+
+{ 
+
+"label" : "E-bike : a Guide to E-bike Models, Technology & Riding Essentials", 
+
+"isbns" : [ 
+
+"9781948007146"
+
+]
+
+},
+
+{ 
+
+"label" : "Epic Bike Rides of the Americas",
+
+"isbns" : [ 
+
+"9781788682572"
+
+]
+
+},
+
+{ 
+
+"label" : "How to Fix Your Bike", 
+
+"isbns" : [ 
+
+"9780933201620"
+
+]
+
+},
+
+{ 
+
+"label" : "Mountain Bike Maintenance", 
+
+"isbns" : [ 
+
+"9781552977347"
+
+]
+
+},
+
+{
+
+"label" : "No Biking in the House Without a Helmet", 
+
+"isbns" : [ 
+
+"9780374223069"
+
+]
+
+},
+
+{ 
+
+"label" : "Sting-Ray Afternoons : a Memoir",
+
+"isbns" : [
+
+"9780316392235"
+
+]
+
+},
+
+{ 
+
+"label" : "The Chainbreaker Bike Book", 
+
+"isbns" : [
+
+"9780977055739"
+
+]
+
+},
+
+{ 
+
+"label" : "The Complete Bike Owner's Manual",
+
+"isbns" : [ 
+
+"9781465459152"
+
+]
+
+},
+
+{ 
+
+"label" : "The Urban Biking Handbook", 
+
+"isbns" : [ 
+
+"9781592536955"
+			
+]
+
+},
+
+{
+
+"label" : "Zinn & the Art of Road Bike Maintenance", 
+
+"isbns" : [ 
+
+"9781934030981"
+
+]
+
+}
+
+]
+
+}
