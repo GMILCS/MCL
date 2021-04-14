@@ -1,24 +1,26 @@
 {
-  "label": "Beverly Cleary",
-  "description": "Beverly Cleary turns 104!",
+  "label": "Thrillers May 2021",
+  "description": "TechnoThrillers",
   "list": [
     {
-      "label": "Two Times the Fun",
+      "label": "The Luminous Dead",
       "isbns": [
-        "9780061757297"
+        "9780062846907"
       ]
     },
     {
-      "label": "Beezus and Ramona",
+      "label": "Blindsight",
       "isbns": [
-        "9780061972140",
-        "9780062060167"
+        "9780765312181"
       ]
     },
     {
-      "label": "Ribsy",
+      "label": "Dark Matter",
       "isbns": [
-        "9780061972386"
+        "9781101904237",
+        "9781101924501",
+        "9781101904220",
+        "9781410491459"
       ]
     },
     {
