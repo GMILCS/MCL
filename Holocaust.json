@@ -1,0 +1,302 @@
+
+{
+
+"label" : "The Holocaust",
+
+"description" : "Books on the Holocaust",
+
+"list" : [
+
+{
+
+"label" : "Accounting for Genocide", 
+
+"isbns"	: [
+
+"9780029102206"
+
+]
+
+},
+
+{
+
+"label" : "Among the Living and the Dead",
+
+"isbns" : [ 
+"9780393245110"
+
+]
+},
+{
+
+"label" : "Anton, the Dove Fancier", 
+
+"isbns" : [
+
+"9780671691370"
+
+]
+
+},
+
+{
+
+"label" : "Auschwitz : a Doctor's Story", 
+
+"isbns" : [ 
+
+"9781555532338"
+
+]
+},
+{
+"label" : "Auschwitz and the Allies", 
+
+"isbns" : [
+
+"9780030592843"
+
+]
+},
+{
+"label" : "Avenue of the Righteous", 
+
+"isbns" : [ 
+
+"9780689111099"
+
+]
+},
+{
+"label" : "Black Earth : the Holocaust as History and Warning", 
+
+"isbns" : [ 
+"9781101903452"
+]
+},
+{
+"label" : "Bondage to the Dead", 
+
+"isbns" : [ 
+
+"9780815627296"
+
+]
+},
+{
+
+"label" : "Boulevard des Miseres: the Story of Transit Camp Westerbork", 
+"isbns" : [
+
+"9780208019776"
+]
+},
+{
+"label" : "Elli : Coming of Age in the Holocaust", 
+
+"isbns" : [ 
+"9780812908824"
+
+]
+
+},
+
+{
+"label" : "Europa, Europa", 
+
+"isbns" : [ 
+"9780471172185"
+
+]
+},
+
+{
+"label" : "Four Perfect Pebbles : a Holocaust Story", 
+
+"isbns" : [ 
+"9780688142940"
+]
+},
+{
+"label" : "Holocaust : a History",
+"isbns" : [ 
+"9780393051889"
+]
+},
+{
+"label" : "Holocaust Memories",
+"isbns" : [ 
+"9780531117422"
+]
+},
+{
+"label" : "Love Despite Hate : Child Survivors of the Holocaust", 
+"isbns" : [ 
+"9780805238013"
+
+]
+},
+{
+"label" : "Memorial Candles : Children of the Holocaust", 
+"isbns" : [ 
+"9780415060981"
+]
+},
+{
+"label" : "My Shadowlife", 
+
+"isbns" : [
+
+"9780966044089"
+
+]
+
+},
+
+{
+"label" : "Nazi Policy, Jewish Workers, German Killers", 
+
+"isbns" : [ 
+
+"9780521772990"
+]
+},
+{
+"label" : "Never to Forget", 
+"isbns" : [ 
+"9780060241742"
+]
+},
+{
+"label" : "Night", 
+"isbns" : [ 
+"9780553272536",
+"9780374399979",
+"9781466805361"
+
+]
+},
+{
+"label" : "Probing the Depths of German Antisemitism", 
+"isbns" : [ 
+"9781571812384"
+]
+},
+{
+"label" : "Rescue as Resistance ", 
+"isbns" : [ 
+"9780231101240"
+]
+},
+{
+"label" : "Scheisshaus Luck : Surviving the Unspeakable in Auschwitz and Dora", 
+"isbns" : [ 
+"9780814412992"
+]
+},
+{
+"label" : "The Beautiful Days of my Youth", 
+"isbns" : [ 
+"9780805050189"
+]
+},
+{
+"label" : "The Boy : a Holocaust Story", 
+"isbns" : [ 
+"9780809030712"
+]
+},
+{
+"label" : "The Color of Courage : a Boy at War", 
+"isbns" : [ 
+"9781607720157"
+]
+},
+{
+"label" : "The Cost of Courage", 
+"isbns" : [ 
+"9781590516140"
+]
+},
+{
+"label" : "The Courage to Care", 
+"isbns" : [ 
+"9780814773970"
+]
+},
+{
+"label" : "The Doctor and the Damned", 
+"isbns" : [ 
+"9780312214784"
+]
+},
+{
+"label" : "The Good Old Days : the Holocaust as Seen by its Perpetrators and Bystanders",
+"isbns" : [ 
+"9780029174258"
+]
+},
+{
+"label" : "The Holocaust : a New History", 
+"isbns" : [ 
+"9781610398442"
+]
+},
+{
+"label" : "The Holocaust Chronicle : a History in Words and Pictures", 
+"isbns" : [ 
+"9780785329633"
+
+]
+},
+{
+"label" : "The Origins of Nazi Genocide", 
+"isbns" : [ 
+"9780807822081"
+]
+},
+{
+"label" : "The Origins of the Final Solution",
+"isbns" : [ 
+"9780803213272"
+]
+},
+{
+"label" : "The Road to Rescue",
+"isbns" : [ 
+"9781590512869"
+]
+},
+{
+"label" : "The Stone Crusher",
+"isbns" : [ 
+"9781613739631"
+]
+},
+{
+"label" : "The Volunteer", 
+"isbns" : [ 
+"9780062561411"
+]
+},
+{
+"label" : "The World Must Know", 
+"isbns" : [ 
+"9780801883583"
+]
+},
+{
+"label" : "Those Who Forget : a Memoir, a History, a Warning", 
+"isbns" : [ 
+"9781501199080"
+]
+},
+{
+"label" : "Why Did the Heavens Not Darken?",
+"isbns" : [
+"9780394571546"
+]
+}
+]
+}
