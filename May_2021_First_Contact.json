@@ -1,0 +1,202 @@
+{
+    "label": "First Contact",
+    "description": "Stories about humankind's first contact with alien species!",
+    "list": [
+{
+"label":"2001: A Space Odyssey, by Arthur C. Clarke",
+"isbns": [
+"9780451198495"
+]
+},
+{
+"label":"An Absolutely Remarkable Thing, by Hank Green",
+"isbns": [
+"9781524743444",
+"9781524743451",
+"9780525641797"
+]
+},
+{
+"label":"Anathem, by Neal Stephenson",
+"isbns": [
+"9780061474095",
+"9780792759096"
+]
+},
+{
+"label":"Annihilation, by Jeff VanderMeer",
+"isbns": [
+"9780374104092"
+]
+},
+{
+"label":"Axiom's End, by Lindsay Ellis",
+"isbns": [
+"9781250256737"
+]
+},
+{
+"label":"Childhood's End, by Arthur C. Clarke",
+"isbns": [
+"9780151172054"
+]
+},
+{
+"label":"Children of Time, by Adrian Tchaikovsky",
+"isbns": [
+"9780316452502"
+]
+},
+{
+"label":"Contact, by Carl Sagan",
+"isbns": [
+"9780671004101"
+]
+},
+{
+"label":"The Dark Forest, by Cixin Liu",
+"isbns": [
+"9780765377081"
+]
+},
+{
+"label":"Eifelheim, by Michael Flynn",
+"isbns": [
+"9780765300966",
+"9781481582513"
+]
+},
+{
+"label":"Embassytown, by China Mieville",
+"isbns": [
+"9780345524515",
+"9780307913814"
+]
+},
+{
+"label":"Ender's Game, by Orson Scott Card",
+"isbns": [
+"9780812550702",
+"9780765378484",
+"9781593974756",
+"9781480523210"
+]
+},
+{
+"label":"Existence, by David Brin",
+"isbns": [
+"9780765303615"
+]
+},
+{
+"label":"Foreigner, by C. J. Cherryh",
+"isbns": [
+"9780756402518"
+]
+},
+{
+"label":"The Hitchhiker's Guide to the Galaxy, by Douglas Adams",
+"isbns": [
+"9780739349366",
+"9780739349366"
+]
+},
+{
+"label":"The Humans, by Matt Haig",
+"isbns": [
+"9781476727912"
+]
+},
+{
+"label":"Invader, by C.J. Cherryh",
+"isbns": [
+"9780886776381"
+]
+},
+{
+"label":"Leviathan Wakes, by James S. A. Corey",
+"isbns": [
+"9781478998938",
+"9780316175180"
+]
+},
+{
+"label":"The Long Earth, by Terry Pratchett",
+"isbns": [
+"9780062067753",
+"9780792788072",
+"9780062067760"
+]
+},
+{
+"label":"The Mote in God's Eye, by Larry Niven",
+"isbns": [
+"9781455883639",
+"9780671218331"
+]
+},
+{
+"label":"Revelation Space, by Alastair Reynolds",
+"isbns": [
+"9780441009428"
+]
+},
+{
+"label":"Roadside Picnic, by Arkady Strugatsky",
+"isbns": [
+"9781613743416"
+]
+},
+{
+"label":"Sleeping Giants, by Sylvain Neuvel",
+"isbns": [
+"9780147522634",
+"9781101886700"
+]
+},
+{
+"label":"Speaker For the Dead, by Orson Scott Card",
+"isbns": [
+"9781593974763"
+]
+},
+{
+"label":"Stories of Your Life and Others, by Ted Chiang",
+"isbns": [
+"9780765304186",
+"9781931520898"
+]
+},
+{
+"label":"Stranger in a Strange Land, by Robert A. Heinlein",
+"isbns": [
+"9781101208960"
+]
+},
+{
+"label":"The Three-Body Problem, by Cixin Liu",
+"isbns": [
+"9780765377067",
+"9781427260338",
+"9781466853447"
+]
+},
+{
+"label":"To Sleep in a Sea of Star, by Christopher Paolini",
+"isbns": [
+"9781250762849",
+"9781250762900",
+"9781250767547",
+"9781250767554"
+]
+},
+{
+"label":"The War of the Worlds, by H. G. Wells",
+"isbns": [
+"9780553213386",
+"9780812505153",
+"9780688131371"
+]
+}
+]
+}
