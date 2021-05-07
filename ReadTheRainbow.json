@@ -1,0 +1,818 @@
+
+
+{
+
+"label" : "Historical fiction books with color themed titels",
+
+"description" : "Read the Rainbow",
+
+"list" : [
+
+{
+
+"label" : "My Name is Red",
+
+"isbns" : [ 
+
+"9780375406959"
+
+]
+
+},
+
+{
+
+"label" : "Red at the Bone",
+
+"isbns" : [ 
+
+"9780525535270"
+
+]
+
+},
+
+{
+
+"label" : "Red Letter Days",
+
+"isbns" : [ 
+"9780451475572"
+		
+]
+
+},
+
+{
+
+"label" : "Red Sky Over Hawaii",
+
+"isbns" : [ 
+
+"9781643587042"
+
+]
+
+},
+
+{
+
+"label" : "Red Water",
+
+"isbns" : [ 
+
+"9780375420924"
+
+]
+
+},
+
+{
+
+"label" : "Red, White, and Blue murder",
+
+"isbns" : [ 
+
+"9780802733412"
+
+]
+
+},
+
+{
+
+"label" : "The Red Badge of Courage",
+
+"isbns" : [ 
+
+"9780895771551",
+
+"9780736686907"
+
+]
+
+},
+
+{
+
+"label" : "The Red Coat : a novel of Boston",
+
+"isbns" : [ 
+
+"9781510743311"
+
+]
+
+},
+
+{
+
+"label" : "The Red Daughter",
+
+"isbns" : [ 
+
+"9781400068463"
+
+]
+
+},
+
+{
+
+"label" : "The Red Horse: a Billy Boyle World War II mystery",
+
+"isbns" : [ 
+
+"9781641291002"
+
+]
+
+},
+
+{
+
+"label" : "The Red Horse",
+
+"isbns" : [ 
+
+"9780898707472"
+
+]
+
+},
+
+{
+
+"label" : "The Red Queen the Cousin's War",
+
+"isbns" : [ 
+
+"9781410427953"
+
+]
+
+},
+
+{
+
+"label" : "The Red Sphinx, or, The Comte de Moret",
+
+"isbns" : [ 
+
+"9781681772974"
+
+]
+
+},
+
+
+{
+
+"label" : "If you Give a Rake a Ruby",
+
+"isbns" : [ 
+
+"9781402269769",
+
+"9781452612164",
+
+"9781402269783"
+
+]
+
+},
+
+{
+
+"label" : "Iris and Ruby",
+
+"isbns" : [ 
+
+"9781468302639"
+  
+  ]
+
+},
+ {
+
+"label" : "Beneath a Scarlet Sky",
+
+"isbns" : [ 
+
+"9781683247357",
+
+"9781503943377"
+
+]
+
+},
+
+{
+
+"label" : "The Coral Thief",
+
+"isbns" : [ 
+
+"9781400113385"
+
+]
+
+},
+
+{
+
+"label" : "Lady Clementine",
+
+"isbns" : [ 
+
+"9781492666905",
+
+"9781432872779",
+
+"9781492666912"
+
+]
+
+},
+
+{
+
+"label" : "Tangerine",
+
+"isbns" : [ 
+
+"9780062686664"
+			
+]
+
+},
+
+{
+
+"label" : "Half of a Yellow Sun",
+
+"isbns" : [ 
+
+"9780307485779"
+
+]
+
+},
+
+{
+
+"label" : "The Yellow House",
+
+"isbns" : [ 
+
+"9781599952017"
+
+]
+
+},
+
+{
+
+"label" : "Yellow Wife",
+
+"isbns" : [ 
+
+"9781643588261",
+
+"9781982149109",
+
+"9781982149123"
+]
+
+},
+
+{
+
+"label" : "The Yellow Bird Sings",
+
+"isbns" : [ 
+
+"9781250179760",
+
+"9781250179777",
+
+"9781432880316",
+
+"9781250260963"
+
+]
+
+},
+
+{
+
+"label" : "Amber and Clay",
+
+"isbns" : [ 
+
+"9781536211733"
+
+]
+
+},
+
+{
+
+"label" : "Dragonfly in Amber",
+
+"isbns" : [ 
+
+"9780440335184",
+
+"9780385335973",
+
+"9781419381027"
+
+]
+
+},
+
+{
+
+"label" : "Forever Amber",
+
+"isbns" : [ 
+
+"9781556524042"
+
+]
+
+},
+
+{
+
+"label" : "The Amber Shadows",
+
+"isbns" : [ 
+
+"9781681774480"
+
+]
+
+},
+
+{
+
+"label" : "Cup of Gold",
+
+"isbns" : [ 
+
+"9780140187434"
+
+]
+
+},
+
+{
+
+"label" : "King's Gold",
+
+"isbns" : [ 
+
+"9781847379023"
+
+]
+
+},
+
+{
+
+"label" : "Days of Gold",
+
+"isbns" : [ 
+
+"9780743598934",
+
+"9781440776311"
+
+]
+  
+},
+
+{
+
+"label" : "Riviera Gold",
+
+"isbns" : [ 
+
+"9780525620839"
+  
+  ]
+},
+
+{
+
+"label" : "Fool's Gold",
+
+"isbns" : [ 
+
+"9780727886910"
+
+]
+
+},
+
+{
+
+"label" : "The Empire of Gold",
+
+"isbns" : [ 
+
+"9780062678164"
+
+
+]
+
+},
+
+{
+
+"label" : "Silence is Golden",
+
+"isbns" : [ 
+
+"9780802733733"
+  
+  ]
+  
+},
+
+{
+
+"label" : "Golden Age",
+
+"isbns" : [ 
+
+"9780307700346",
+
+"9781410482990"
+
+]
+
+},
+
+{
+
+"label" : "Golden Hill",
+
+"isbns" : [ 
+
+"9781501163876"
+
+]
+
+},
+
+{
+
+"label" : "Golden Lion",
+
+"isbns" : [ 
+
+"9780062276469"
+
+]
+
+},
+
+{
+
+"label" : "The Golden Age",
+
+"isbns" : [ 
+
+"9781609453329"
+
+]
+
+},
+
+{
+
+"label" : "The Golden Hour",
+
+"isbns" : [ 
+
+"9780062930248"
+
+]
+
+},
+
+{
+
+"label" : "The Stolen Gold Affair",
+
+"isbns" : [ 
+
+"9781250216489"
+
+]
+
+},
+
+{
+
+"label" : "Leaving Lucy Pear",
+
+"isbns" : [
+
+"9780698149922",
+
+"9781594632655"
+
+]
+
+},
+
+{
+
+"label" : "Tallgrass",
+
+"isbns" : [ 
+
+"9780312360191"
+  
+  ]
+  
+},
+
+{
+
+"label" : "Marilla of Green Gables",
+
+"isbns" : [ 
+
+"9780062866943",
+
+"9780062697714"
+
+]
+
+},
+
+{
+
+"label" : "The Deception of the Emerald Ring",
+
+"isbns" : [ 
+
+"9780525949770"
+
+]
+
+},
+
+{
+
+"label" : "The Endless Forest",
+
+"isbns" : [ 
+
+"9780553805260",
+
+"9781415966174",
+
+"9780440339021"
+
+]
+
+},
+
+{
+
+"label" : "The Green Dress",
+
+"isbns" : [ 
+
+"9781643524757"
+
+]
+
+},
+
+{
+
+"label" : "The Green Mile",
+
+"isbns" : [ 
+
+"9780743591676",
+
+"9780671041786"
+  
+  ]
+  
+},
+
+{
+
+"label" : "Gods of Jade and Shadow",
+
+"isbns" : [ 
+
+"9780525620754"
+
+]
+
+},
+
+{
+
+"label" : "Tiffany Blues",
+
+"isbns" : [ 
+
+"9781501173592",
+
+"9781508261070"
+
+]
+
+},
+
+{
+
+"label" : "Blue Asylum",
+
+"isbns" : [ 
+
+"9780547712079"
+
+]
+
+},
+
+{
+
+"label" : "The Girl in the Blue Beret",
+
+"isbns" : [ 
+
+"9781400067183"
+
+]
+
+},
+
+{
+
+"label" : "Funeral in Blue",
+
+"isbns" : [ 
+
+"9780345440013"
+
+]
+
+},
+
+{
+
+"label" : "Sapphire's Grave",
+
+"isbns" : [ 
+
+"9780385503235"
+
+]
+
+
+},
+
+{
+
+"label" : "Singapore Sapphire",
+
+"isbns" : [ 
+
+"9781984802644"
+
+]
+
+},
+
+{
+
+"label" : "Midnight Blue",
+
+"isbns" : [ 
+
+"9780062686862"
+  
+  ]
+  
+},
+
+{
+
+"label" : "The Indigo Girl",
+
+"isbns" : [ 
+
+"9781455137114",
+
+"9781455137084",
+
+"9781455137145"
+
+]
+
+},
+
+{
+
+"label" : "Riders of the Purple Sage",
+
+"isbns" : [ 
+
+"9781568950068",
+
+"9780340922873"
+
+
+]
+
+},
+
+{
+
+"label" : "Lilac Girls",
+
+"isbns" : [ 
+
+"9781101889596",
+
+"9781101883075",
+
+"9781101883068",
+
+"9781101889619"
+
+]
+
+},
+
+{
+
+"label" : "The Color Purple",
+
+"isbns" : [ 
+
+"9780151191543",
+
+"9781453223970"
+
+]
+
+},
+
+{
+
+"label" : "The Plum Tree",
+
+"isbns" : [ 
+
+"9780758278449",
+
+"9780758278449"
+
+]
+
+},
+
+{
+
+"label" : "The Secret Life of Violet Grant",
+
+"isbns" : [ 
+
+"9780399162176",
+
+"9781101596562"
+
+]
+
+},
+
+{
+
+"label" : "The Lure of the Moonflower: a Pink Carnation novel",
+
+"isbns" : [ 
+
+"9780451473028"
+
+]
+
+}
+
+
+]
+
+}
