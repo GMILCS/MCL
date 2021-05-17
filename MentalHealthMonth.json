@@ -1,0 +1,405 @@
+{
+"label" : "May is Mental Health Awareness Month",
+
+"description" : "Books on mental health",
+
+"list" : [
+
+{
+"label" : "(Don't) Call Me Crazy", 
+
+"isbns" : [ 
+
+"9781616207816"
+
+]
+
+},
+
+{
+
+"label" : "Accessible Yoga",
+
+ "isbns" : [ 
+
+"9781611807127"
+
+]
+},
+{
+"label" : "Another Kind of Madness", 
+
+"isbns" : [ 
+"9781250113368"
+]
+},
+{
+"label" : "Are u ok?",
+"isbns" : [ 
+"9780738234991"
+]
+},
+{
+"label" : "Aware",
+"isbns" : [
+"9781101993040"
+]
+},
+{
+"label" : "Bitter Medicine",
+"isbns" : [ 
+"9781551119281"
+]
+},
+{
+"label" : "Black Fatigue",
+"isbns" : [ 
+"9781523091317",
+"9781523091300"
+]
+},
+{
+"label" : "Borderline Personality Disorder",
+"isbns" : [ 
+"9781421403137"
+]
+},
+{
+"label" : "Breathe, Empower, Achieve",
+"isbns" : [ 
+"9781615195848"
+]
+},
+{
+"label" : "Calm the F*ck Down", 
+"isbns" : [ 
+"9781549177316",
+"9780316529150"
+]
+},
+{
+"label" : "Depression, Anxiety, and Other Things we Don't Want to Talk About",
+"isbns" : [ 
+"9781400221325"
+]
+},
+{
+"label" : "Depression@College",
+"isbns" : [
+"9781789560916"
+]
+},
+{
+"label" : "Destructive Emotions", 
+"isbns" : [ 
+"9780553801712"
+]
+},
+{
+"label" : "Eat to Beat Depression and Anxiety",
+"isbns" : [ 
+"9780063031715",
+"9780063031739"
+]
+},
+{
+"label" : "Emotional First Aid",
+
+"isbns" : [ 
+"9781594631207"
+]
+},
+{
+"label" : "Essential Art Therapy Exercises",
+"isbns" : [ 
+"9781646111626"
+]
+},
+{
+"label" : "Everything is an Emergency",
+"isbns" : [ 
+"9780062950079"
+]
+},
+{
+"label" : "Freedom From Family Dysfunction",
+"isbns" : [ 
+"9781538121948"
+]
+},
+{
+"label" : "Headcase", 
+"isbns" : [ 
+"9780190846596"
+]
+},
+{
+"label" : "Heads Up",
+"isbns" : [ 
+"9781459819115"
+]
+},
+{
+"label" : "Healing a Community",
+"isbns" : [ 
+"9781942094906"
+]
+},
+{
+"label" : "Hello I Want to Die Please Fix Me",
+"isbns" : [ 
+"9781615194926",
+"9780735272842"
+]
+},
+{
+"label" : "How to be Well",
+"isbns" : [ 
+"9781328904782"
+]
+},
+{
+"label" : "How to Change Your Mind", 
+"isbns" : [ 
+"9781594204227",
+"9780525631941",
+"9780525558941",
+"9780525627166",
+"9780525627180"
+]
+},
+{
+"label" : "Hysterical", 
+"isbns" : [ 
+"9781580058445"
+]
+},
+{
+"label" : "Lighter Than My Shadow", 
+"isbns" : [ 
+"9781941302415"
+]
+},
+{
+"label" : "Logged in and Stressed Out",
+"isbns" : [ 
+"9781538126677"
+]
+},
+{
+"label" : "Marbles",
+"isbns" : [ 
+"9781592407323"
+]
+},
+{
+"label" : "Military Mental Health Care",
+"isbns" : [ 
+"9781442220935"
+]
+},
+{
+"label" : "My Age of Anxiety",
+"isbns" : [ 
+"9780307269874",
+"9780385351324"
+]
+},
+{
+"label" : "My Depression", 
+"isbns" : [ 
+"9781609805494"
+]
+},
+{
+"label" : "Nervous Energy",
+"isbns" : [ 
+"9781662068553"
+]
+},
+{
+"label" : "Obsessive Compulsive Disorder", 
+"isbns" : [ 
+"9781440871306"
+]
+},
+{
+"label" : "Paint Yourself Calm", 
+"isbns" : [ 
+"9781782212829"
+]
+},
+{
+"label" : "Prozac Nation", 
+"isbns" : [ 
+"9780544960091"
+]
+},
+{
+"label" : "Radical Compassion",
+"isbns" : [ 
+"9780525522812"
+]
+},
+{
+"label" : "Running That Doesn't Suck", 
+"isbns" : [ 
+"9780762466740"
+]
+},
+{
+"label" : "Seeking Serenity", 
+"isbns" : [ 
+"9780451471512"
+]
+},
+{
+"label" : "Sleep Rituals", 
+"isbns" : [ 
+"9781507209523"
+]
+},
+{
+"label" : "Sleep Soundly Every Night, Feel Fantastic Every Day", 
+"isbns" : [ 
+"9781936303724"
+]
+},
+{
+"label" : "Slow", 
+"isbns" : [ 
+"9781492665540"
+]
+},
+{
+"label" : "Social Phobia", 
+"isbns" : [ 
+"9781316617939"
+]
+},
+{
+"label" : "Start Here", 
+"isbns" : [ 
+"9781508257929"
+]
+},
+{
+"label" : "Take Control of Your Anxiety", 
+"isbns" : [ 
+"9781601633569"
+]
+},
+{
+"label" : "The 10 Best Anxiety Busters", 
+"isbns" : [ 
+"9780393710762"
+]
+},
+{
+"label" : "The Art of Mindful Origami", 
+"isbns" : [ 
+"9781925335293"
+]
+},
+{
+"label" : "The Healthy Brain Book",
+"isbns" : [ 
+"9781948836517"
+]
+},
+{
+"label" : "The Johns Hopkins Guide to Psychological First Aid", 
+"isbns" : [ 
+"9781421422718"
+]
+},
+{
+"label" : "The More or Less Definitive Guide to Self-Care", 
+"isbns" : [ 
+"9781615196104"
+]
+},
+{
+"label" : "The Scar", 
+"isbns" : [ 
+"9781324001720"
+]
+},
+{
+"label" : "The Science of Yoga", 
+"isbns" : [ 
+"9781451641424"
+]
+},
+{
+"label" : "The Stressed Years of Their Lives",
+"isbns" : [ 
+"9781250113139"
+]
+},
+{
+"label" : "The Unspeakable Mind", 
+"isbns" : [ 
+"9780062469069"
+]
+},
+{
+"label" : "They'll Never be the Same",
+"isbns" : [ 
+"9781942094616"
+]
+},
+{
+"label" : "This Close to Happy", 
+"isbns" : [ 
+"9780374140366",
+"9781504773140",
+"9781504773133"
+]
+},
+{
+"label" : "Together",
+"isbns" : [ 
+"9780062913296",
+"9780062913319",
+"9780062948038"
+]
+},
+{
+"label" : "Unfuck Your Brain", 
+"isbns" : [ 
+"9781934620779"
+]
+},
+{
+"label" : "Van Gogh's Ear", 
+"isbns" : [ 
+"9780374279691"
+]
+},
+{
+"label" : "Winning the War in Your Mind", 
+"isbns" : [ 
+"9780310362722"
+]
+},
+{
+"label" : "Yoga For Depression",
+"isbns" : [ 
+"9780767914505"
+]
+},
+{
+"label" : "You Can do All Things",
+"isbns" : [ 
+"9781633538627"
+]
+},
+{
+"label" : "You're Strong, Smart, and You Got This",
+"isbns" : [ 
+"9781642501209"
+]
+}
+]
+}
