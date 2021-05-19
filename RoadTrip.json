@@ -135,6 +135,24 @@
       "isbns": [
         "9780316012119"
         ]
-    }    
+    },
+     {
+      "label": "North of Montana",
+      "isbns": [
+        "9780307472656"
+        ]
+    },
+    {
+      "label": "Montana",
+      "isbns": [
+        "9781579623364"
+        ]
+    },
+    {
+      "label": "The Hotel New Hampshire",
+      "isbns": [
+        "9780345417954"
+        ]
+    }
   ]
 }
