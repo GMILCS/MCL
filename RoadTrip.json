@@ -148,18 +148,19 @@
         "9781579623364"
         ]
     },
-    {
-      "label": "The Hotel New Hampshire",
-      "isbns": [
-        "9780345417954"
-        ]
-    },
-    {
+       {
       "label": "New York to Dallas",
       "isbns": [
         "9780399157783",
         "9781101536919",
         "9781410440693"
+        ]
+    },
+     {
+      "label": "The Witches of New York",
+      "isbns": [
+        "9780062359926",
+        "9780062359933"
         ]
     }
   ]
