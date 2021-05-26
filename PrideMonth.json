@@ -3,8 +3,37 @@
 "description" : "LGBT authors or charicters",
 "list" : [
   {
+   {
+"label" : "Rick",
+"isbns" : [
+"9781338048100"
+]
+},
+{
+"label" : "Aristotle and Dante Discover the Secrets of the Universe",
+"isbns" :  [ 
+"9781442408920",
+"9786070726309",
+"9781442366077"
+]
+},
+{
+"label" : "Middlesex",
+"isbns" :  [ 
+"9780374199692",
+"9780786257003",
+"9780792751236"
+]
+},
+{
+"label" : "Felix Ever After",
+"isbns" :  [ 
+"9780062820259",
+"9780063003910"
+]
+},
+{
 "label" : "A Separate Peace",
-
 "isbns" : [ 
 "9780816158959",
 "9780684833668",
@@ -18,31 +47,14 @@
 "9781524745998"
 ]
 },
-{
-"label" : "Angels in America : a Gay Fantasia on National Themes",
-"isbns" : [ 
-"9781559360609"
-]
-},
+
 {
 "label" : "Annie On My Mind",
 "isbns" :  [ 
 "9780739367469"
 ]
 },
-{
-"label" : "Another Country",
-"isbns" :  [
-"9786070726309"
-]
-},
-{
-"label" : "Aristotle and Dante Discover the Secrets of the Universe",
-"isbns" :  [ 
-"9781442408920",
-"9781442366077"
-]
-},
+
 {
 "label" : "Ash",
 "isbns" :  [ 
@@ -85,8 +97,8 @@
 {
 "label" : "Carry On",
 "isbns" :  [ 
-"9781427262028",
 "9781427276568",
+ "9781427262028",
 "9781250049551"
 ]
 },
@@ -123,13 +135,7 @@
 "9780062968777"
 ]
 },
-{
-"label" : "Felix Ever After",
-"isbns" :  [ 
-"9780062820259",
-"9780063003910"
-]
-},
+
 {
 "label" : "Fingersmith",
 "isbns" :  [ 
@@ -217,12 +223,7 @@
 {
 "label" : "In the Dream House",
 "isbns" :  [ 
-"9781684572793"
-]
-},
-{
-"label" : "In the Dream House",
-"isbns" :  [ 
+"9781684572793",
 "9781644450031",
 "9781644451021"
 ]
@@ -269,14 +270,13 @@
 "9781635571851"
 ]
 },
-{
-"label" : "Middlesex",
-"isbns" :  [ 
-"9780374199692",
-"9780786257003",
-"9780792751236"
+ {
+"label" : "Angels in America : a Gay Fantasia on National Themes",
+"isbns" : [ 
+"9781559360609"
 ]
 },
+
 {
 "label" : "Midnight in the Garden of Good and Evil",
 "isbns" :  [ 
@@ -335,13 +335,9 @@
 "9781250316783"
 ]
 },
+
 {
-"label" : "Rick",
-"isbns" : [
-"9781338048100"
-]
-},
-{"label" : "Simon vs. the Homo Sapiens Agenda",
+ "label" : "Simon vs. the Homo Sapiens Agenda",
 "isbns" : [ 
 "9780062348678",
 "9780062348692",
