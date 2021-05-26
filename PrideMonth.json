@@ -2,8 +2,7 @@
 "label" : "Celebrate Pride Month!",
 "description" : "LGBT authors or charicters",
 "list" : [
-  {
-  
+ {
 "label" : "Rick",
 "isbns" : [
 "9781338048100"
@@ -47,14 +46,12 @@
 "9781524745998"
 ]
 },
-
 {
 "label" : "Annie On My Mind",
 "isbns" :  [ 
 "9780739367469"
 ]
 },
-
 {
 "label" : "Ash",
 "isbns" :  [ 
@@ -84,6 +81,8 @@
 {
 "label" : "Call Me By Your Name",
 "isbns" :  [ 
+"9781427291707",
+"9781427291714"
 "9781427291707"
 ]
 },
@@ -98,7 +97,7 @@
 "label" : "Carry On",
 "isbns" :  [ 
 "9781427276568",
- "9781427262028",
+"9781427262028",
 "9781250049551"
 ]
 },
