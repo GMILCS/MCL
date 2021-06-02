@@ -45,17 +45,17 @@
 "9781250049551"
 ]
 },
- {
+{
 "label" : "Between XX and XY",
 "isbns" : [
 "9781556527852" 
 ]
 },
-  {
+{
 "label" : "The Gay Revolution",
 "isbns" : [
 "9781451694123",
- "9781451694116"
+"9781451694116"
 ]
 },
 {
@@ -147,7 +147,6 @@
 "9780062968777"
 ]
 },
-
 {
 "label" : "Fingersmith",
 "isbns" :  [ 
@@ -282,13 +281,12 @@
 "9781635571851"
 ]
 },
- {
+{
 "label" : "Angels in America : a Gay Fantasia on National Themes",
 "isbns" : [ 
 "9781559360609"
 ]
 },
-
 {
 "label" : "Midnight in the Garden of Good and Evil",
 "isbns" :  [ 
@@ -339,32 +337,32 @@
 "9780316516037"
 ]
 },
-  {
+{
+"label" : "Harvey Milk",
+"isbns" : [
+"9780300222616"
+]
+},
+{
 "label" : "Tinder Box",
 "isbns" : [
 "9781631491641"
 ]
 },
- {
-"label" : "Tinder Box",
-"isbns" : [
-"9781631491641"
-]
-},
- {
- "label" : "Gay America",
+{
+"label" : "Gay America",
 "isbns" : [
 "9780810994874"
 ]
 },
- {
+{
 "label" : "The Gay Rights Movement",
 "isbns" : [
 "9781541525573",
- "9781541536975"
+"9781541536975"
 ]
 },
- {
+{
 "label" : "Finding Community",
 "isbns" : [
 "9781422235058"
@@ -378,7 +376,6 @@
 "9781250316783"
 ]
 },
-
 {
  "label" : "Simon vs. the Homo Sapiens Agenda",
 "isbns" : [ 
