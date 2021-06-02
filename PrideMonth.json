@@ -45,6 +45,19 @@
 "9781250049551"
 ]
 },
+ {
+"label" : "Between XX and XY",
+"isbns" : [
+"9781556527852" 
+]
+},
+  {
+"label" : "The Gay Revolution",
+"isbns" : [
+"9781451694123",
+ "9781451694116"
+]
+},
 {
 "label" : "A Separate Peace",
 "isbns" : [ 
@@ -324,6 +337,37 @@
 "label" : "Real Queer America",
 "isbns" : [
 "9780316516037"
+]
+},
+  {
+"label" : "Tinder Box",
+"isbns" : [
+"9781631491641"
+]
+},
+ {
+"label" : "Tinder Box",
+"isbns" : [
+"9781631491641"
+]
+},
+ {
+ "label" : "Gay America",
+"isbns" : [
+"9780810994874"
+]
+},
+ {
+"label" : "The Gay Rights Movement",
+"isbns" : [
+"9781541525573",
+ "9781541536975"
+]
+},
+ {
+"label" : "Finding Community",
+"isbns" : [
+"9781422235058"
 ]
 },
 {
