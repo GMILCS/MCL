@@ -2,13 +2,7 @@
   "label": "Reading Road Trip",
   "description": "Drive across the country in a book",
   "list": [
-    {
-      "label": "Stars of Alabama",
-      "isbns": [
-        "9780785226376"
-        ]
-    },
-    {
+        {
       "label": "Just Mercy",
       "isbns": [
         "9780812994520",
@@ -17,16 +11,7 @@
         "9780525580034"
         ]
     },
-                 {
-      "label": "Deep in the Alaskan Woods",
-      "isbns": [
-        "9781643588285",
-        "9781488056116",
-        "9780778309628",
-        "9781094098890"
-      ]
-    },
-    {
+            {
       "label": "The Great Alone",
       "isbns": [
         "9780312577230",
@@ -37,27 +22,24 @@
         ]
     },
     {
-      "label": "Arizona Heat",
+      "label": "Hondo",
       "isbns": [
-        "9780373800001"
+        "9780739346334"
       ]
     },
        {
-      "label": "California Girls",
+      "label": "I Know Why the Caged Bird Sings",
       "isbns": [
-        "9781488205767",
-        "9780778368960",
-        "9781488255748",
-        "9781488088612",
-        "9781432862657"
+        "9781588369253"
       ]
     },
           {
-      "label": "Naked Came the Florida Man",
+      "label": "There There",
       "isbns": [
-        "9780062796004",
-        "9780062957382",
-        "9780062795953"
+        "9780525520375",
+        "9780525635567",
+        "9780525635598",
+        "9780525520382"
       ]
     },
     {
