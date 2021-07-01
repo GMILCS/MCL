@@ -1,0 +1,170 @@
+{
+"label" : "Birds of a Feather",
+"description" : "Historical fiction novels with birds in the title",
+"list" : [
+{
+
+"label" : "A Sparrow in Terezin",
+"isbns" : [
+"9781401690618"
+]
+},
+{
+"label" : "Across the Nightingale Floor",
+"isbns" : [
+"9781573222259",
+"9781598873122"
+]
+},
+{
+"label" : "Dear Mrs. Bird",
+"isbns" : [
+"9781501170065",
+"9781508255192",
+"9781508255208"
+]
+},
+{
+"label" : "Eagle & Crane",
+"isbns" : [
+"9780399184291"
+]
+},
+{
+"label" : "Flight of the Sparrow",
+"isbns" : [
+"9780451466693"
+]
+},
+{
+"label" : "Sharpe's Eagle",
+"isbns" : [
+"9780670639441"
+]
+},
+{
+"label" : "Song of a Captive Bird",
+"isbns" : [
+"9780399182310"
+]
+},
+{ 
+"label" : "The Bird Boys",
+"isbns" : [
+"9781947627147",
+"9781947627130"
+]
+},
+{
+"label" : "The Bird King",
+"isbns" : [
+"9780802146847"
+]
+},
+{ 
+"label" : "The Black Swan of Paris",
+"isbns" : [
+"9780778309338",
+"9781488055331"
+]
+},
+{ 
+"label" : "The Butcher Bird",
+"isbns" : [
+"9781605989815"
+]
+},
+{
+"label" : "The Dove of Death",
+"isbns" : [
+"9780312551209"
+]
+},
+{ 
+"label" : "The Dovekeepers",
+"isbns" : [
+"9781611732573",
+"9781451617474"
+]
+},
+{ 
+"label" : "The Eagle",
+"isbns" : [
+"9780312870072"
+]
+},
+{ 
+"label" : "The Good Lord Bird",
+"isbns" : [
+"9781594486340",
+"9781410464859"
+]
+},
+{
+"label" : "The Hawk and the Jewel",
+"isbns" : [
+"9780786227242"
+]
+},
+{
+"label" : "The Knight and the Dove",
+"isbns" : [
+"9780786229550"
+]
+},
+{
+"label" : "The Nightingale",
+"isbns" : [
+"9781466850606",
+"9781427263278",
+"9781427212672",
+"9781628995015",
+"9781427252388"
+]
+},
+{
+"label" : "The Secret of Raven Point",
+"isbns" : [
+"9781629234199",
+"9781439167007"
+]
+},
+{
+"label" : "The Silver Eagle",
+"isbns" : [
+"9780312536725"
+]
+},
+{ 
+"label" : "The Swan Gondola",
+"isbns" : [
+"9781594486098"
+]
+},
+{ 
+"label" : "The Swans of Fifth Avenue",
+"isbns" : [
+"9780345539755"
+]
+},
+{ 
+"label" : "The Yellow Bird Sings",
+"isbns" : [
+"9781250179760",
+"9781250179777"
+]
+},
+{ 
+"label" : "Under the Eagle",
+"isbns" : [
+"9780786240760"
+]
+},
+{ 
+"label" : "When the Eagle Hunts",
+"isbns" : [
+"9780312305352"
+]
+}
+]
+}
