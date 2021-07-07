@@ -105,17 +105,44 @@
         "9780316012119"
         ]
     },
-     {
-      "label": "North of Montana",
+    {
+      "label": "All the Bright Places",
       "isbns": [
-        "9780307472656"
+        "9780385755887",
+        "9780553552218",
+        "9780553552225",
+        "9780385755900"
+        ]
+    },
+    {
+      "label": "Dewey : the small-town library cat who touched the world",
+      "isbns": [
+        "9780446541190",
+        "9780446407410",
+        "9781600243820"
         ]
     },
              {
-      "label": "The Witches of New York",
+      "label": "The Wizard of Oz",
       "isbns": [
-        "9780062359926",
-        "9780062359933"
+        "9781620111741",
+        "9780307941633",
+        "9780785145905"
+        ]
+    },
+     {
+      "label": "The Memory Keeper's Daughter",
+      "isbns": [
+        "9780143037149",
+        "9781428125551"
+        ]
+    },
+             {
+      "label": "Interview with the Vampire",
+      "isbns": [
+        "9780307914026",
+        "9780394498218",
+        "9780307575852"
         ]
     },
      {
