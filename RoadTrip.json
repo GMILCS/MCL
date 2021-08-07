@@ -136,9 +136,21 @@
         ]
     },
      {
+      "label": "From Missouri",
+      "isbns": [
+        "9781433223877"
+        ]
+    },
+     {
       "label": "North of Montana",
       "isbns": [
         "9780307472656"
+        ]
+    },
+    {
+      "label": "One New Hampshire Christmas",
+      "isbns": [
+        "9781098328221"
         ]
     },
              {
@@ -182,6 +194,12 @@
         "9780735219878",
         "9780735219861",
         "9781432846381"
+        ]
+    },
+    {
+      "label": "Loving vs. Virginia",
+      "isbns": [
+        "9781452153315"
         ]
     },
     {
