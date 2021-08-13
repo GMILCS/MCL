@@ -374,21 +374,26 @@
         ]
     },
     {
-      "label": "Wyoming True",
+      "label": "The Glass Castle",
       "isbns": [
-        "9781335778697"
+        "9781508231110",
+        "9781442339705",
+        "9781501171581"
         ]
     },
     {
-      "label": "Wyoming True",
+      "label": "Evicted",
       "isbns": [
-        "9781335778697"
+        "9780553447439",
+        "9780147526793",
+        "9780553447446"
         ]
     },
      {
-      "label": "The Washington Decree",
+      "label": "Open Season",
       "isbns": [
-        "9781524742522"
+        "9781101463802",
+        "9781441675385"
         ]
     }
   ]
