@@ -1,0 +1,557 @@
+{
+"label" : "Banned Books",
+"description" : "Books challenged in libraries around the country",
+"list" : [
+{
+"label" : "1984",
+"isbns" : [ 
+"9781402522833",
+"9780547249643",
+"9781483050928",
+"9780451524935"	
+]
+},
+{
+"label" : "A Day No Pigs Would Die",
+"isbns" : [ 
+"9780739372210"
+]
+},
+{
+"label" : "A Prayer for Owen Meany",
+"isbns" : [ 
+"9780688077082"
+]
+},
+{
+"label" : "A Time to Kill",
+"isbns" : [ 
+"9780307576132"
+]
+},
+{
+"label" : "A Wrinkle in Time",
+"isbns" : [
+"9780374386139"
+]
+},
+{
+"label" : "Alice in Blunderland",
+"isbns" : [ 
+"9780689843976"
+]
+},
+{
+"label" : "Alice In-between",
+"isbns" : [ 
+"9780689318900"
+]
+},
+{
+"label" : "All American Boys",
+"isbns" : [ 
+"9781481463331",
+"9781481463355",
+"9781442398672"
+]
+},
+{
+"label" : "All the King's Men",
+"isbns" : [ 
+"9780156004800",
+"9781419344534"
+]
+},
+{
+"label" : "Almost Perfect",
+"isbns" : [ 
+"9780373774906",
+"9780385736640",
+"9780307942302",
+9780375893797"
+]
+},
+{
+"label" : "And Tango Makes Three",
+"isbns" : [ 
+"9780689878459"
+]
+},
+{
+"label" : "Angus, Thongs and Full-Frontal Snogging",
+"isbns" : [ 
+"9780062300263",
+"9780060288143"
+]
+},
+{
+"label" : "Animal Farm",
+"isbns" : [ 
+"9780788744754",
+"9780679420392",
+"9780786143139",
+"9780451526342",
+"9780452284241",
+"9780547370224"
+]
+},
+{
+"label" : "Are You There God? It's me, Margaret",
+"isbns" : [ 
+"9780307817747",
+"9780739360354",
+"9780130458568",
+"9780027109504"
+]
+},
+{
+"label" : "Beloved",
+"isbns" : [ 
+"9780394535975"
+]
+},
+{
+"label" : "Bless Me, Ultima",
+"isbns" : [ 
+"9781455521333"
+]
+},
+{
+"label" : "Blood and Chocolate",
+"isbns" : [ 
+"9780375843167"
+]
+},
+{
+"label" : "Blubber",
+"isbns" : [ 
+"9780027110104",
+"9780307817662",
+"9780739360361"
+]
+},
+{
+"label" : "Brave New World",
+"isbns" : [ 
+"9780060776091"
+]
+},
+{
+"label" : "Fahrenheit 451",
+"isbns" : [ 
+"9781451673319",
+"9780786153107"
+]
+},
+{
+"label" : "Fallen Angels",
+"isbns" : [ 
+"9781419332180",
+"9780545055765"
+]
+},
+{
+"label" : "Fallen: Angels in the Dark",
+"isbns" : [ 
+"9780385388054"
+]
+},
+{
+"label" : "Fifty Shades of Grey",
+"isbns" : [ 
+"9780345803481",
+]
+},
+{
+"label" : "Friday Night Lights",
+"isbns" : [ 
+"9780201196771"
+]
+},
+{
+"label" : "Go Ask Alice",
+"isbns" : [ 
+"9781416914631"
+]
+},
+{
+"label" : "Grendel",
+"isbns" : [ 
+"9780394471433"
+]
+},
+{
+"label" : "I Know Why the Caged Bird Sings",
+"isbns" : [ 
+"9780375507892",
+"9780553279375",
+"9781588369253"
+]
+},
+{
+"label" : "In the Night Kitchen",
+"isbns" : [ 
+"9781442053731"
+]
+},
+{
+"label" : "It's Perfectly Normal",
+"isbns" : [ 
+"9780763624330"
+]
+},
+{
+"label" : "It's So Amazing!",
+"isbns" : [ 
+"9780763600518"
+]
+},
+{
+"label" : "Julie of the Wolves",
+"isbns" : [ 
+"9780060219437",
+"9780062429742"
+]
+},
+{
+"label" : "Kaffir Boy",
+"isbns" : [ 
+"9780025818002"
+]
+},
+{
+"label" : "King & King",
+"isbns" : [ 
+"9781582460611"
+]
+},
+{
+"label" : "Lolita",
+"isbns" : [ 
+"9780679723165"
+]
+},
+{
+"label" : "Lord of the Flies",
+"isbns" : [ 
+"9780307281708",
+"9780143129400"
+]
+},
+{
+"label" : "Lovingly Alice",
+"isbns" : [ 
+"9780689843990"
+]
+},
+{
+"label" : "Of Mice and Men",
+"isbns" : [ 
+"9781565117709",
+"9781101530900",
+"9780142000670"
+]
+},
+{
+"label" : "Olive's Ocean",
+"isbns" : [ 
+"9780060535438"
+]
+},
+{
+"label" : "One Flew Over the Cuckoo's Nest",
+"isbns" : [ 
+"9780143105022"
+]
+},
+{
+"label" : "Patiently Alice",
+"isbns" : [ 
+"9780689826368"
+]
+},
+{
+"label" : "Rainbow Boys",
+"isbns" : [ 
+"9780792790518"
+]
+},
+{
+"label" : "Roll of Thunder, Hear my Cry",
+"isbns" : [ 
+"9780803726475"
+]
+},
+{
+"label" : "Simply Alice",
+"isbns" : [ 
+"9780689859656"
+]
+},
+{
+"label" : "Slaughterhouse-Five",
+"isbns" : [ 
+"9780060735555",
+"9781684156252",
+"9780440339069",
+"9780385333849"
+]
+},
+{
+"label" : "Snow Falling on Cedars",
+"isbns" : [ 
+"9780151001002",
+"9780547545080"
+]
+},
+{
+"label" : "So Far From the Bamboo Grove",
+"isbns" : [ 
+"9780688131159"
+]
+},
+{
+"label" : "Song of Solomon",
+"isbns" : [ 
+"9780679445043"
+]
+},
+{
+"label" : "Summer of my German Soldier",
+"isbns" : [ 
+"9780141306360"
+]
+},
+{
+"label" : "Taming the Star Runner",
+"isbns" : [ 
+"9780440500582"
+]
+},
+{
+"label" : "The Absolutely True Diary of a Part-time Indian",
+"isbns" : [ 
+"9780316013680",
+"9781428182974",
+"9780316280372",
+"9781456103521",
+"9780316013697"
+]
+},
+{
+"label" : "The Ddventures of Huckleberry Finn",
+"isbns" : [ 
+"9780894718809"
+]
+},
+{
+"label" : "The Adventures of Tom Sawyer",
+"isbns" : [ 
+"9780517221082",
+"9781402714603",
+"9781441876577",
+"9781598530872",
+"9780143107330",
+"9780486480442",
+"9781402712166"
+]
+},
+{
+"label" : "The Amber Spyglass",
+"isbns" : [ 
+"9780679879268"
+]
+},
+{
+"label" : "The Awakening",
+"isbns" : [ 
+"9781566195539"
+]
+},
+{
+"label" : "The Bluest Eye",
+"isbns" : [ 
+"9780671531461",
+"9780307386588",
+"9780307941138"
+]
+},
+{
+"label" : "The Call of the Wild	",
+"isbns" : [ 
+"9780938819028"
+]
+},
+{
+"label" : "The Catcher in the Rye",
+"isbns" : [ 
+"9780316769174",
+"9780316769488",
+"9780316496377"
+]
+},
+{
+"label" : "The Chocolate War",
+"isbns" : [ 
+"9780375829871"
+]
+},
+{
+"label" : "The Color Purple",
+"isbns" : [ 
+"9780151191543",
+"9781453223970"
+]
+},
+{
+"label" : "The Earth, My Butt, and Other Big, Round Things",
+"isbns" : [ 
+"9780763619589",
+"9780763654320",
+"9781681198002"
+]
+},
+{
+"label" : "The Face on the Milk Carton",
+"isbns" : [ 
+"9780307567505"
+]
+},
+{
+"label" : "The Giver",
+"isbns" : [ 
+"9780395645666"
+]
+},
+{
+"label" : "The Glass Castle",
+"isbns" : [ 
+"9780743247535",
+"9781508231110",
+"9781442339705"
+]
+},
+{
+"label" : "The Great Gatsby",
+"isbns" : [ 
+"9780743273565"
+"9780684830421",
+"9780792750611",
+"9781433210464",
+"9788495311290",
+"9780060098919",
+"9781480529946",
+"9780792751519",
+"9780743246392"
+]
+},
+{
+"label" : "The Great Gilly Hopkins",
+"isbns" : [ 
+"9780061975172",
+"9780062422866"
+]
+},
+{
+"label" : "The Handmaid's Tale",
+"isbns" : [ 
+"9780547345666",
+"9781480559820",
+"9780385539241",
+"9780385490818"
+]
+},
+{
+"label" : "The House of the Spirits",
+"isbns" : [ 
+"9781400043187"
+]
+},
+{
+"label" : "The Jungle",
+"isbns" : [ 
+"9781566195522"
+]
+},
+{
+"label" : "The Kite Runner",
+"isbns" : [ 
+"9781585473632",
+"9780743545235",
+"9781101217238",
+"9781594489600"
+]
+},
+{
+"label" : "The Lovely Bones",
+"isbns" : [ 
+"9781600248429",
+"9781600240690",
+"9780316168816",
+"9780759598027"
+]
+},
+{
+"label" : "The Testaments",
+"isbns" : [ 
+"9780385543781",
+"9780525590453",
+"9780593149096",
+"9780525590484"
+]
+},
+{
+"label" : "The Things They Carried",
+"isbns" : [ 
+"9780547420295",
+"9781432846947",
+"9780767902892"
+]
+},
+{
+"label" : "The Upstairs Room",
+"isbns" : [ 
+"9780690851274"
+]
+},
+{"label" : "Thirteen Reasons Why",
+"isbns" : [ 
+"9781595141712",
+"9780739361221",
+"9780141931647",
+"9780739361238",
+"9789877471908"	
+]
+},
+{
+"label" : "Tiger Eyes",
+"isbns" : [ 
+"9780307747761"
+]
+},
+{
+"label" : "To Kill a Mockingbird",
+"isbns" : [ 
+"9780060888695"
+]
+},
+{
+"label" : "Two Boys Kissing",
+"isbns" : [ 
+"9780307931900"
+]
+},
+{
+"label" : "Whale Talk",
+"isbns" : [ 
+"9780061968532"
+]
+},
+{
+"label" : "What My Mother Doesn't Know",
+"isbns" : [ 
+"9780689841149"
+]
+}
+]
+}
