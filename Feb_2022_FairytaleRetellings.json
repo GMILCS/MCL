@@ -1,0 +1,377 @@
+{
+    "label": "Fairy Tale Retellings",
+    "description:" "Your favorite fairy tales, with a twist!",
+    "list": [
+{
+"label":"Children of Blood and Bone, by Tomi Adeyemi",
+"isbns": [
+"9781250170989",
+"9781250170972",
+"9781427295514",
+"9781427295507"
+]
+},
+{
+"label":"The Hazel Wood: A Novel, by Milissa Albert",
+"isbns": [
+"9781250147905",
+"9781427293534",
+"9781427293541"
+]
+},
+{
+"label":"The Bear and the Nightingale: A Novel, by Katherine Arden",
+"isbns": [
+"9781101885949",
+"9780399567179",
+"9781101885932"
+]
+},
+{
+"label":"The Robber Bride, by Margaret Atwood",
+"isbns": [
+"9780307797971"
+]
+},
+{
+"label":"Girls Made of Snow and Glass, by Melissa Bashardoust",
+"isbns": [
+"9781250077738"
+]
+},
+{
+"label":"Cinderella is Dead, by Kalynn Bayron",
+"isbns": [
+"9781547603886",
+"9781547603879"
+]
+},
+{
+"label":"Cinnamon and Gunpowder, by Eli Brown",
+"isbns": [
+"9781427235923"
+]
+},
+{
+"label":"A Curse Dark as Gold, by Elizabeth C. Bunce",
+"isbns": [
+"9780545285384"
+]
+},
+{
+"label":"Once & Future, by A. R. Capetta",
+"isbns": [
+"9780316449250",
+"9780316449274"
+]
+},
+{
+"label":"Enchantment, by Orson Scott Card",
+"isbns": [
+"9781433285615"
+]
+},
+{
+"label":"The Book of Lost Things, by John Connolly",
+"isbns": [
+"9781428120471"
+]
+},
+{
+"label":"House of Salt and Sorrows, by Erin A. Craig",
+"isbns": [
+"9781984831927",
+"9781984831941",
+"9780593102916"
+]
+},
+{
+"label":"Forest of a Thousand Lanterns, by Julie C. Dao",
+"isbns": [
+"9781524738297"
+]
+},
+{
+"label":"The Stolen Child: A Novel, by Keith Donohue",
+"isbns": [
+"9780385516167",
+"9781419371714"
+]
+},
+{
+"label":"The Big Over Easy: A Nursery Crime, by Jasper Fforde",
+"isbns": [
+"9780670034239",
+"9781429514477"
+]
+},
+{
+"label":"The Fourth Bear, by Jasper Fforde",
+"isbns": [
+"9781429547727"
+]
+},
+{
+"label":"The Sleeper and the Spindle, by Neil Gaiman",
+"isbns": [
+"9780062398246",
+"9780062421432",
+"9780062435132"
+]
+},
+{
+"label":"Cruel Beauty, by Rosamund Hodge",
+"isbns": [
+"9780062320032",
+"9780062224736"
+]
+},
+{
+"label":"The Ice Queen: A Novel, by Alice Hoffman",
+"isbns": [
+"9780316058599",
+"9781594831607"
+]
+},
+{
+"label":"Midnight Robber, by Nalo Hopkinson",
+"isbns": [
+"9780759521124"
+]
+},
+{
+"label":"Roses and Rot, by Kat Howard",
+"isbns": [
+"9781481451161"
+]
+},
+{
+"label":"The Snow Child: A Novel, by Eowyn Ivey",
+"isbns": [
+"9781410447357",
+"9780316175678"
+]
+},
+{
+"label":"Una MaldicioÌn Oscura y Solitaria, by Brigid Kemmerer",
+"isbns": [
+"9788492918461"
+]
+},
+{
+"label":"The Brides of Rollrock Island, by Margo Lanagan",
+"isbns": [
+"9780375869198"
+]
+},
+{
+"label":"Ash, by Malinda Lo",
+"isbns": [
+"9780316040099"
+]
+},
+{
+"label":"Huntress, by Malinda Lo",
+"isbns": [
+"9780375833649"
+]
+},
+{
+"label":"A Court of Thorns and Roses, by Sarah J Maas",
+"isbns": [
+"9781619634459",
+"9781619634459",
+"9781619634442",
+"9781490640747"
+]
+},
+{
+"label":"Mirror Mirror, by Gregory Maguire",
+"isbns": [
+"9780060393847"
+]
+},
+{
+"label":"Confessions of an Ugly Stepsister, by Gregory Maguire",
+"isbns": [
+"9780061762598"
+]
+},
+{
+"label":"Unbury Carol: A Novel, by Josh Malerman",
+"isbns": [
+"9780399180163",
+"9780525530916",
+"9780399180170"
+]
+},
+{
+"label":"Wildwood Dancing, by Juliet Marillier",
+"isbns": [
+"9780375833649"
+]
+},
+{
+"label":"Spindle's End, by Robin McKinley",
+"isbns": [
+"9780399234668"
+]
+},
+{
+"label":"A Blade So Black, by L. L. McKinney",
+"isbns": [
+"9781250207319",
+"9781250153906"
+]
+},
+{
+"label":"Blanca & Roja, by Anna-Marie McLemore",
+"isbns": [
+"9781250162717"
+]
+},
+{
+"label":"Heartless, by Marissa Meyer",
+"isbns": [
+"9781250044655", 
+"9781427267948",
+"9781427280152"
+]
+},
+{
+"label":"Gods of Jade and Shadow, by Silvia Moreno-Garcia",
+"isbns": [
+"9780525620754"
+]
+},
+{
+"label":"The Forgotten Garden: A Novel, by Kate Morton",
+"isbns": [
+"9781416550549",
+"9781602854925"
+]
+},
+{
+"label":"The True Story of Hansel and Gretel, by Louise Murphy",
+"isbns": [
+"9780142003077"
+]
+},
+{
+"label":"The Crane Wife: A Novel, by Patrick Ness",
+"isbns": [
+"9781594205477"
+]
+},
+{
+"label":"Uprooted, by Naomi Novik",
+"isbns": [
+"9780553410099",
+"9780804179034",
+"9780804179041",
+"9780804179041"
+]
+},
+{
+"label":"Spinning Silver: A Novel, by Naomi Novik",
+"isbns": [
+"9780399180989",
+"9780525531005",
+"9780399181009",
+"9780525530992"
+]
+},
+{
+"label":"The Tiger's Wife: A Novel, by TeÌa Obreht",
+"isbns": [
+"9780385343831",
+"9780679604365",
+"9780307877031"
+]
+},
+{
+"label":"Gingerbread, by Helen Oyeyemi",
+"isbns": [
+"9781594634659"
+]
+},
+{
+"label":"Boy, Snow, Bird, by Helen Oyeyemi",
+"isbns": [
+"9781594631399"
+]
+},
+{
+"label":"Vassa in the Night, by Sarah Porter",
+"isbns": [
+"9780765380548"
+]
+},
+{
+"label":"Geekerella: A Fangirl Fairy Tale, by Ashley Poston",
+"isbns": [
+"9781594749506"
+]
+},
+{
+"label":"Princess and the Fangirl, by Ashley Poston",
+"isbns": [
+"9781683690979"
+]
+},
+{
+"label":"The Shadow Queen, by C. J. Redwine",
+"isbns": [
+"9780062360267"
+]
+},
+{
+"label":"Haroun and the Sea of Stories, by Salman Rushdie",
+"isbns": [
+"9780670838042"
+]
+},
+{
+"label":"All the Ever Afters: The Untold Story of Cinderella's Stepmother, by Danielle Teller",
+"isbns": [
+"9780062849076"
+]
+},
+{
+"label":"The Girls at the Kingfisher Club: A Novel, by Genevieve Valentine",
+"isbns": [
+"9781476739083"
+]
+},
+{
+"label":"Alif the Unseen, by G. Willow Wilson",
+"isbns": [
+"9780802120205"
+]
+},
+{
+"label":"Beauty: A Novel, by Susan Wilson",
+"isbns": [
+"9780517701522"
+]
+},
+{
+"label":"The Poets' Grimm: 20th Century Poems From Grimm Fairy Tales",
+"isbns": [
+"9781586540272"
+]
+},
+{
+"label":"Happily Ever After",
+"isbns": [
+"9781597802208"
+]
+},
+{
+"label":"The Starlit Wood: New Fairy Tales",
+"isbns": [
+"9781481456128"
+]
+}
+]
+}
