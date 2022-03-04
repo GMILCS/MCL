@@ -1,0 +1,135 @@
+
+{
+"label" : "March madness",
+"description" : "Historical fiction novels with march or madness in the title",
+"list" : [
+{
+"label" : "A Mad Desire to Dance",
+"isbns" : [
+"9781415960868"
+]
+},
+{
+"label" : "A Mad, Wicked Folly", 
+"isbns" : [ 
+"9780804167574"
+]
+},
+{
+"label" : "A Madness of Sunshine",
+"isbns" : [ 
+"9780593099131"
+]
+},
+{
+"label" : "Among the Mad", 
+"isbns" : [ 
+"9780805082166",
+"9781410415547",
+"9780792762317"		
+]
+},
+{
+"label" : "Island of the Mad", 
+"isbns" : [ 
+"9780804177962",
+"9781501990663",
+"9780804177979"
+]
+},
+{
+"label" : "Jane and the Madness of Lord Byron", 
+"isbns" : [ 
+"9781410433701",
+"9780553907803"
+]
+},
+{
+"label" : "Kopp Sisters on the March",
+"isbns" : [ 
+"9781328736529",
+"9781328736543"
+]
+},
+{
+"label" : "Mad Merlin",
+"isbns" : [ 
+"9780312869632"
+]
+},
+{
+"label" : "Mad, Bad & Dangerous to Know", 
+"isbns" : [ 
+"9781616959906"
+]
+},
+{
+"label" : "Mad, Bad, and Dangerous in Plaid", 
+"isbns" : [ 
+"9781481512183"
+]
+},
+{
+"label" : "March",
+"isbns" : [ 
+"9780786277988",
+"9780143036661",
+"9780792734734"
+]
+},
+{
+"label" : "Stone Mad", 
+"isbns" : [ 
+"9781250163837"
+]
+},
+{
+"label" : "The Mad Lord's Daughter",
+"isbns" : [ 
+"9781420128383"
+]
+},
+{
+"label" : "The Mad, Bad Duke", 
+"isbns" : [ 
+"9781428503151" 
+]
+},
+{
+"label" : "The Madness of Crowds", 
+"isbns" : [ 
+"9781250145260",
+"9781250810687",
+"9781250145284"
+]
+},
+{"label" : "The Madness of Lord Ian Mackenzie", 
+"isbns" : [ 
+"9781101529317",
+"9781452626925"
+]
+},
+{
+"label" : "The March", 
+"isbns" : [ 
+"9780739345610"
+]
+},
+{
+"label" : "The Slow March of Light",
+"isbns" : [ 
+"9781629729282"
+]
+},
+{
+"label" : "The Women's March",
+"isbns" : [ 
+"9780063096516",
+"9780062976048",
+"9780062976000",
+"9780063090262",
+"9780063096523"
+]
+}
+]
+}
