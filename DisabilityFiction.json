@@ -63,7 +63,7 @@
 ]},{"label" : "Sea Glass Island","isbns" : [ "9781460313121"
 ]},{"label" : "Six of Crows","isbns" : [ "9781627792127",
 "9781627795227"
-]},{"label" : "So Lucky","isbns" : [ "9781427297785",
+]},{"label" : "So Lucky","isbns" : [ "9781427297785"
 ]},{"label" : "Somebody Please Tell Me Who I Am","isbns" : [ "9781416938958"
 ]},{"label" : "The Battle of the Labyrinth","isbns" : [ "9781423101499",
 "9780739364741",
@@ -101,7 +101,7 @@
 ]},{"label" : "The Museum of Forgotten Memories","isbns" : [ "9781982127107"
 ]},{"label" : "The New Annotated Sherlock Holmes","isbns" : [ "9780393059168",
 "9780393065947"
-]},{"label" : "The Original Illustrated Sherlock Holmes : 37 short stories plus a complete novel,"isbns" : [ "9780890090572"
+]},{"label" : "The Original Illustrated Sherlock Holmes", "isbns" : [ "9780890090572"
 ]},{"label" : "The Peculiar Miracles of Antoinette Martin","isbns" : [ "9781616204181",
 "9781616206475"
 ]},{"label" : "The Sea of Monsters","isbns" : [ "9780739331194",
@@ -121,7 +121,7 @@
 "9781423101451",
 "9781484423202"
 ]},{"label" : "Unlocked","isbns" : [ "9781410429100",
-"9780310412113"
-"9780310266235",
+"9780310412113",
+"9780310266235"
 ]},{"label" : "You're Dead","isbns" : [ "9781579625412"
 ]}]}
