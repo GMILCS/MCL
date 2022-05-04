@@ -1,7 +1,10 @@
 {"label": "Artificial Intelligence",
  "description": "The beauty and destruction that Man has wrought…",
 "list": [
-{"label" : "2001: A Space Odyssey, by Arthur C. Clarke","isbns" : [ "9780451198495"
+ },{"label" : "I, Robot, by Isaac Asimov","isbns" : [ "9780553382563",
+"9780739346273",
+"9780553900330"
+]{"label" : "2001: A Space Odyssey, by Arthur C. Clarke","isbns" : [ "9780451198495"
 ]},{"label" : "A Closed and Common Orbit, by Becky Chambers","isbns" : [ "9780062569424"
 ]},{"label" : "The Wild Robot, by Peter Brown","isbns" : [ "9780316381994",
 "9781478939092"
@@ -19,9 +22,6 @@
 ]},{"label" : "The Moon is a Harsh Mistress, by Robert A. Heinlein","isbns" : [ "9780786155149"
 ]},{"label" : "Midnight Robber, by Nalo Hopkinson","isbns" : [ "9780759521124"
 ]},{"label" : "The Blood of Gods, by Conn Iggulden","isbns" : [ "9780345539625"
-]},{"label" : "I, Robot, by Isaac Asimov","isbns" : [ "9780553382563",
-"",
-"9780553900330"
 ]},{"label" : "Klara and the Sun, by Kazuo Ishiguro","isbns" : [ "9780593349304",
 "9780593318171",
 "9780593318188"
@@ -39,10 +39,10 @@
 ]},{"label" : "The Collapsing Empire, by John Scalzi","isbns" : [ "9780765388889"
 ]},{"label" : "Scythe, by Neal Shusterman","isbns" : [ "9781442472426",
 "9781442472440"
-]},{"label" : "The Mother Code, by Carole Stivers","isbns" : [ "",
+]},{"label" : "The Mother Code, by Carole Stivers","isbns" : [ "9780593165638",
 "9781984806925"
 ]},{"label" : "We Are Legion: (We Are Bob), by Dennis E. Taylor","isbns" : [ "9781680680584"
-]},{"label" : "All Systems Red, by Martha Wells","isbns" : [ ""
+]},{"label" : "All Systems Red, by Martha Wells","isbns" : [ "9781501977244"
 ]},{"label" : "Idoru, by William Gibson","isbns" : [ "9780399141300"
 ]},{"label" : "Robopocalypse, by Daniel H. Wilson","isbns" : [ "9780307913937"
 ]}]}
